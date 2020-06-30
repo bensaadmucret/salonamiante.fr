@@ -1,0 +1,1939 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Event Framework\n"
+"POT-Creation-Date: 2014-11-28 16:18+0100\n"
+"PO-Revision-Date: 2015-01-12 18:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../event-framework.php:61
+msgid "Theme Options"
+msgstr "Опиции темы"
+
+#: ../event-framework.php:101
+msgid "Homepage"
+msgstr "Главная страница"
+
+#: ../event-framework.php:110
+msgid "Main Sidebar"
+msgstr "Главная боковая панель"
+
+#: ../event-framework.php:115
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: ../event-framework.php:256
+msgid "Search Widget Area : "
+msgstr "Область элемента поиска :"
+
+#: ../event-framework.php:257
+msgid "Search Widget : "
+msgstr "Элемент поиска :"
+
+#: ../components/cpts/poi.php:4 ../components/cpts/poi.php:14
+msgid "Points of Interest"
+msgstr "Точки интереса"
+
+#: ../components/cpts/poi.php:5
+msgid "Point of Interest"
+msgstr "Точка интереса"
+
+#: ../components/cpts/poi.php:6 ../components/cpts/session.php:6
+#: ../components/cpts/speaker.php:7 ../components/cpts/sponsor.php:6
+#: ../components/cpts/ticket.php:7
+#: ../multievent/includes/multievent-post-types.php:30
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: ../components/cpts/poi.php:7
+msgid "Add New Point of Interest"
+msgstr "Добавить новую точку интереса"
+
+#: ../components/cpts/poi.php:8
+msgid "Edit Point of Interest"
+msgstr "Редактировать точку интереса"
+
+#: ../components/cpts/poi.php:9
+msgid "New Point of Interest"
+msgstr "Новая точка интереса"
+
+#: ../components/cpts/poi.php:10
+msgid "View Point of Interest"
+msgstr "Просмотр точки интереса"
+
+#: ../components/cpts/poi.php:11
+msgid "Search Points of Interest"
+msgstr "Поиск точек интереса"
+
+#: ../components/cpts/poi.php:12
+msgid "No Points of Interest found"
+msgstr "Точки интереса не найдены"
+
+#: ../components/cpts/poi.php:13
+msgid "No Points of Interest found in trash"
+msgstr "Точки интереса в корзине не найдены"
+
+#: ../components/cpts/poi.php:41
+#, php-format
+msgid "Point of Interest updated. <a href=\"%s\">View Point of Interest</a>"
+msgstr "Точка интереса обновлена. <a href=\"%s\">Просмотр точки интереса</a>"
+
+#: ../components/cpts/poi.php:42 ../components/cpts/session.php:49
+#: ../components/cpts/speaker.php:50 ../components/cpts/sponsor.php:43
+#: ../components/cpts/ticket.php:46
+msgid "Custom field updated."
+msgstr "Пользовательское поле обновлено."
+
+#: ../components/cpts/poi.php:43 ../components/cpts/session.php:50
+#: ../components/cpts/speaker.php:51 ../components/cpts/sponsor.php:44
+#: ../components/cpts/ticket.php:47
+msgid "Custom field deleted."
+msgstr "Пользовательское поле удалено."
+
+#: ../components/cpts/poi.php:44
+msgid "Point of Interest updated."
+msgstr "Точка интереса обновлена."
+
+#: ../components/cpts/poi.php:46
+#, php-format
+msgid "Point of Interest restored to revision from %s"
+msgstr "Точка интереса восстановлена для пересмотра из %s"
+
+#: ../components/cpts/poi.php:47
+#, php-format
+msgid "Point of Interest published. <a href=\"%s\">View Point of Interest</a>"
+msgstr ""
+"Точка интереса опубликована. <a href=\"%s\">Просмотр точки интереса</a>"
+
+#: ../components/cpts/poi.php:48
+msgid "Point of Interest saved."
+msgstr "Точка интереса сохранена."
+
+#: ../components/cpts/poi.php:49
+#, php-format
+msgid ""
+"Point of Interest submitted. <a target=\"_blank\" href=\"%s\">Preview Point "
+"of Interest</a>"
+msgstr ""
+"Точка интереса отправлена. <a target=\"_blank\" href=\"%s\">Предварительный "
+"просмотр точки интереса</a>"
+
+#: ../components/cpts/poi.php:50
+#, php-format
+msgid ""
+"Point of Interest scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Point of Interest</a>"
+msgstr ""
+"Точка интереса запланирована на: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Предварительный просмотр точки интереса</a>"
+
+#: ../components/cpts/poi.php:52 ../components/cpts/session.php:59
+#: ../components/cpts/speaker.php:60 ../components/cpts/sponsor.php:53
+#: ../components/cpts/ticket.php:56
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ../components/cpts/poi.php:53
+#, php-format
+msgid ""
+"Point of Interest draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Point of Interest</a>"
+msgstr ""
+"Черновик точки интереса обновлен. <a target=\"_blank\" href=\"%s"
+"\">Предварительный просмотр точки интереса</a>"
+
+#: ../components/cpts/session.php:4 ../components/cpts/session.php:14
+msgid "Sessions"
+msgstr "Сессии"
+
+#: ../components/cpts/session.php:5
+msgid "Session"
+msgstr "Сессия"
+
+#: ../components/cpts/session.php:7
+msgid "Add New Session"
+msgstr "Добавить новую сессию"
+
+#: ../components/cpts/session.php:8
+msgid "Edit Session"
+msgstr "Редактировать сессию"
+
+#: ../components/cpts/session.php:9
+msgid "New Session"
+msgstr "Новая сессия"
+
+#: ../components/cpts/session.php:10
+msgid "View Session"
+msgstr "Просмотр сессии"
+
+#: ../components/cpts/session.php:11
+msgid "Search Sessions"
+msgstr "Поиск сессий"
+
+#: ../components/cpts/session.php:12
+msgid "No Sessions found"
+msgstr "Сессии не найдены"
+
+#: ../components/cpts/session.php:13
+msgid "No Sessions found in trash"
+msgstr "Сессии в корзине не найдены"
+
+#: ../components/cpts/session.php:48
+#, php-format
+msgid "Session updated. <a href=\"%s\">View Session</a>"
+msgstr "Сессия обновлена. <a href=\"%s\">Просмотр сессии</a>"
+
+#: ../components/cpts/session.php:51
+msgid "Session updated."
+msgstr "Сессия обновлена."
+
+#: ../components/cpts/session.php:53
+#, php-format
+msgid "Session restored to revision from %s"
+msgstr "Сессия восстановлена для пересмотра из %s"
+
+#: ../components/cpts/session.php:54
+#, php-format
+msgid "Session published. <a href=\"%s\">View Session</a>"
+msgstr "Сессия опубликована. <a href=\"%s\">Просмотр сессии</a>"
+
+#: ../components/cpts/session.php:55
+msgid "Session saved."
+msgstr "Сессия сохранена."
+
+#: ../components/cpts/session.php:56
+#, php-format
+msgid "Session submitted. <a target=\"_blank\" href=\"%s\">Preview Session</a>"
+msgstr ""
+"Сессия отправлена. <a target=\"_blank\" href=\"%s\">Предварительный просмотр "
+"сессии</a>"
+
+#: ../components/cpts/session.php:57
+#, php-format
+msgid ""
+"Session scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Session</a>"
+msgstr ""
+"Сессия запланирована на: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Предварительный просмотр сессии</a>"
+
+#: ../components/cpts/session.php:60
+#, php-format
+msgid ""
+"Session draft updated. <a target=\"_blank\" href=\"%s\">Preview Session</a>"
+msgstr ""
+"Черновик сессии обновлен. <a target=\"_blank\" href=\"%s\">Предварительный "
+"просмотр сессии</a>"
+
+#: ../components/cpts/speaker.php:5 ../components/cpts/speaker.php:16
+#: ../components/metaboxes/session.php:9
+msgid "Speakers"
+msgstr "Выступающий"
+
+#: ../components/cpts/speaker.php:6
+msgid "Speaker"
+msgstr "Выступающие"
+
+#: ../components/cpts/speaker.php:8
+msgid "Add New Speaker"
+msgstr "Добавить нового выступающего"
+
+#: ../components/cpts/speaker.php:9
+msgid "Edit Speaker"
+msgstr "Редактировать выступающего"
+
+#: ../components/cpts/speaker.php:10
+msgid "New Speaker"
+msgstr "Новый выступающий"
+
+#: ../components/cpts/speaker.php:11
+msgid "All Speakers"
+msgstr "Все выступающие"
+
+#: ../components/cpts/speaker.php:12
+msgid "View Speaker"
+msgstr "Просмотр выступающего"
+
+#: ../components/cpts/speaker.php:13
+msgid "Search Speakers"
+msgstr "Поиск выступающих"
+
+#: ../components/cpts/speaker.php:14
+msgid "No Speakers found"
+msgstr "Выступающие не найдены"
+
+#: ../components/cpts/speaker.php:15
+msgid "No Speakers found in trash"
+msgstr "Выступающие в корзине не найдены"
+
+#: ../components/cpts/speaker.php:49
+#, php-format
+msgid "Speaker updated. <a href=\"%s\">View Speaker</a>"
+msgstr "Выступающий обновлен. <a href=\"%s\">Просмотр выступающего</a>"
+
+#: ../components/cpts/speaker.php:52
+msgid "Speaker updated."
+msgstr "Выступающий обновлен."
+
+#: ../components/cpts/speaker.php:54
+#, php-format
+msgid "Speaker restored to revision from %s"
+msgstr "Выступающий восстановлен для пересмотра из %s"
+
+#: ../components/cpts/speaker.php:55
+#, php-format
+msgid "Speaker published. <a href=\"%s\">View Speaker</a>"
+msgstr "Выступающий опубликован. <a href=\"%s\">Просмотр выступающего</a>"
+
+#: ../components/cpts/speaker.php:56
+msgid "Speaker saved."
+msgstr "Выступающий сохранен."
+
+#: ../components/cpts/speaker.php:57
+#, php-format
+msgid "Speaker submitted. <a target=\"_blank\" href=\"%s\">Preview Speaker</a>"
+msgstr ""
+"Выступающий отправлен. <a target=\"_blank\" href=\"%s\">Предварительный "
+"просмотр выступающего</a>"
+
+#: ../components/cpts/speaker.php:58
+#, php-format
+msgid ""
+"Speaker scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Speaker</a>"
+msgstr ""
+"Выступающий запланирован на: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Предварительный просмотр выступающего</a>"
+
+#: ../components/cpts/speaker.php:61
+#, php-format
+msgid ""
+"Speaker draft updated. <a target=\"_blank\" href=\"%s\">Preview Speaker</a>"
+msgstr ""
+"Черновик выступающего обновлен. <a target=\"_blank\" href=\"%s"
+"\">Предварительный просмотр выступающего</a>"
+
+#: ../components/cpts/sponsor.php:4 ../components/cpts/sponsor.php:14
+msgid "Sponsors"
+msgstr "Спонсоры"
+
+#: ../components/cpts/sponsor.php:5
+msgid "Sponsor"
+msgstr "Спонсор"
+
+#: ../components/cpts/sponsor.php:7
+msgid "Add New Sponsor"
+msgstr "Добавить нового спонсора"
+
+#: ../components/cpts/sponsor.php:8
+msgid "Edit Sponsor"
+msgstr "Редактировать спонсора"
+
+#: ../components/cpts/sponsor.php:9
+msgid "New Sponsor"
+msgstr "Новый спонсор"
+
+#: ../components/cpts/sponsor.php:10
+msgid "View Sponsor"
+msgstr "Просмотр спонсора"
+
+#: ../components/cpts/sponsor.php:11
+msgid "Search Sponsors"
+msgstr "Поиск спонсоров"
+
+#: ../components/cpts/sponsor.php:12
+msgid "No Sponsors found"
+msgstr "Спонсоры не найдены"
+
+#: ../components/cpts/sponsor.php:13
+msgid "No Sponsors found in trash"
+msgstr "Спонсоры в корзине не найдены"
+
+#: ../components/cpts/sponsor.php:42
+#, php-format
+msgid "Sponsor updated. <a href=\"%s\">View Sponsor</a>"
+msgstr "Спонсор обновлен. <a href=\"%s\">Просмотр спонсора</a>"
+
+#: ../components/cpts/sponsor.php:45
+msgid "Sponsor updated."
+msgstr "Спонсор обновлен."
+
+#: ../components/cpts/sponsor.php:47
+#, php-format
+msgid "Sponsor restored to revision from %s"
+msgstr "Спонсор восстановлен для пересмотра из %s"
+
+#: ../components/cpts/sponsor.php:48
+#, php-format
+msgid "Sponsor published. <a href=\"%s\">View Sponsor</a>"
+msgstr "Спонсор опубликован. <a href=\"%s\">Просмотр спонсора</a>"
+
+#: ../components/cpts/sponsor.php:49
+msgid "Sponsor saved."
+msgstr "Спонсор сохранен."
+
+#: ../components/cpts/sponsor.php:50
+#, php-format
+msgid "Sponsor submitted. <a target=\"_blank\" href=\"%s\">Preview Sponsor</a>"
+msgstr ""
+"Спонсор отправлен. <a target=\"_blank\" href=\"%s\">Предварительный просмотр "
+"спонсора</a>"
+
+#: ../components/cpts/sponsor.php:51
+#, php-format
+msgid ""
+"Sponsor scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Sponsor</a>"
+msgstr ""
+"Спонсор запланирован на: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Предварительный просмотр спонсора</a>"
+
+#: ../components/cpts/sponsor.php:54
+#, php-format
+msgid ""
+"Sponsor draft updated. <a target=\"_blank\" href=\"%s\">Preview Sponsor</a>"
+msgstr ""
+"Черновик спонсора обновлен. <a target=\"_blank\" href=\"%s\">Предварительный "
+"просмотр спонсора</a>"
+
+#: ../components/cpts/ticket.php:5 ../components/cpts/ticket.php:15
+msgid "Tickets"
+msgstr "Тикеты"
+
+#: ../components/cpts/ticket.php:6
+msgid "Ticket"
+msgstr "Тикет"
+
+#: ../components/cpts/ticket.php:8
+msgid "Add New Ticket"
+msgstr "Добавить новый тикет"
+
+#: ../components/cpts/ticket.php:9
+msgid "Edit Ticket"
+msgstr "Редактировать тикет"
+
+#: ../components/cpts/ticket.php:10
+msgid "New Ticket"
+msgstr "Новый тикет"
+
+#: ../components/cpts/ticket.php:11
+msgid "View Ticket"
+msgstr "Просмотр тикета"
+
+#: ../components/cpts/ticket.php:12
+msgid "Search Tickets"
+msgstr "Поиск тикетов"
+
+#: ../components/cpts/ticket.php:13
+msgid "No Tickets found"
+msgstr "Тикеты не найдены"
+
+#: ../components/cpts/ticket.php:14
+msgid "No Tickets found in trash"
+msgstr "Тикеты в корзине не найдены"
+
+#: ../components/cpts/ticket.php:45
+#, php-format
+msgid "Ticket updated. <a href=\"%s\">View Ticket</a>"
+msgstr "Тикет обновлен. <a href=\"%s\">Просмотр тикета</a>"
+
+#: ../components/cpts/ticket.php:48
+msgid "Ticket updated."
+msgstr "Тикет обновлен."
+
+#: ../components/cpts/ticket.php:50
+#, php-format
+msgid "Ticket restored to revision from %s"
+msgstr "Тикет восстановлен для пересмотра из %s"
+
+#: ../components/cpts/ticket.php:51
+#, php-format
+msgid "Ticket published. <a href=\"%s\">View Ticket</a>"
+msgstr "Тикет опубликован. <a href=\"%s\">Просмотр тикета</a>"
+
+#: ../components/cpts/ticket.php:52
+msgid "Ticket saved."
+msgstr "Тикет сохранен."
+
+#: ../components/cpts/ticket.php:53
+#, php-format
+msgid "Ticket submitted. <a target=\"_blank\" href=\"%s\">Preview Ticket</a>"
+msgstr ""
+"Тикет отправлен. <a target=\"_blank\" href=\"%s\">Предварительный просмотр "
+"тикета</a>"
+
+#: ../components/cpts/ticket.php:54
+#, php-format
+msgid ""
+"Ticket scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Ticket</a>"
+msgstr ""
+"Тикет запланирован на: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Предварительный просмотр тикета</a>"
+
+#: ../components/cpts/ticket.php:57
+#, php-format
+msgid ""
+"Ticket draft updated. <a target=\"_blank\" href=\"%s\">Preview Ticket</a>"
+msgstr ""
+"Черновик тикета обновлен. <a target=\"_blank\" href=\"%s\">Preview Ticket</a>"
+
+#: ../components/metaboxes/poi.php:7
+msgid "POI Address Info"
+msgstr "Информация об адресе точки интереса"
+
+#: ../components/metaboxes/poi.php:18
+msgid "Address"
+msgstr "Адрес"
+
+#: ../components/metaboxes/poi.php:22
+msgid "Manual coordinates"
+msgstr "Координаты, вводимые вручную"
+
+#: ../components/metaboxes/poi.php:26
+msgid "Latitude"
+msgstr "Широта"
+
+#: ../components/metaboxes/poi.php:30
+msgid "Longitude"
+msgstr "Долгота"
+
+#: ../components/metaboxes/session.php:6
+msgid "Session Details"
+msgstr "Информация о сессии"
+
+#: ../components/metaboxes/session.php:34
+msgid "Show in home page"
+msgstr "Показывать на главной странице"
+
+#: ../components/metaboxes/session.php:38
+msgid "Date"
+msgstr "Дата"
+
+#: ../components/metaboxes/session.php:42
+msgid "Start Time"
+msgstr "Время начала"
+
+#: ../components/metaboxes/session.php:44
+#: ../components/metaboxes/session.php:48
+msgid "Format hh:mm"
+msgstr "Формат чч:мм"
+
+#: ../components/metaboxes/session.php:46
+msgid "End Time"
+msgstr "Время окончания"
+
+#: ../components/metaboxes/session.php:51
+msgid ""
+"Please enter the time in 24 hours and four digits format. 9am should be "
+"inputted as 09:00 <strong>not</strong> as 9:00 - notice the lack of a zero."
+msgstr ""
+"Пожалуйста, введите время в 24-часовом формате, используя четыре цифры. 9am "
+"следует указывать как 09:00, но <strong>not</strong> не как 9:00 - обратите "
+"внимание на отсутствие нуля."
+
+#: ../components/metaboxes/session.php:54
+#: ../components/widgets/widget-registration.php:159
+msgid "Registration Embed Code:"
+msgstr "Регистрационный код для вставки:"
+
+#: ../components/metaboxes/session.php:58
+msgid "Registration Title:"
+msgstr "Название регистрации:"
+
+#: ../components/metaboxes/session.php:62
+msgid "Registration Text:"
+msgstr "Текст регистрации:"
+
+#: ../components/metaboxes/session.php:116
+#: ../components/metaboxes/speaker.php:80
+#: ../components/metaboxes/speaker.php:113
+#: ../components/metaboxes/speaker.php:145
+#: ../components/widgets/widget-speakers.php:153
+msgid "Select and order speakers to show in this section"
+msgstr ""
+"Выберите и расположите по порядку выступающих для показа в этом разделе"
+
+#: ../components/metaboxes/speaker.php:5
+msgid "Speaker Details"
+msgstr "Информация о выступающем"
+
+#: ../components/metaboxes/speaker.php:8
+msgid "Speakers Sections"
+msgstr "Разделы выступающих"
+
+#: ../components/metaboxes/speaker.php:17
+msgid "Keynote"
+msgstr "Суть"
+
+#: ../components/metaboxes/speaker.php:21
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: ../components/metaboxes/speaker.php:76
+msgid "Title Section 1"
+msgstr "Заголовок Раздел 1"
+
+#: ../components/metaboxes/speaker.php:109
+msgid "Title Section 2"
+msgstr "Заголовок Раздел 2"
+
+#: ../components/metaboxes/speaker.php:141
+msgid "Title Section 3"
+msgstr "Заголовок Раздел 3"
+
+#: ../components/metaboxes/sponsor.php:5
+msgid "Sponsor Details"
+msgstr "Информация о спонсоре"
+
+#: ../components/metaboxes/sponsor.php:12
+msgid "Link"
+msgstr "Ссылка"
+
+#: ../components/metaboxes/ticket.php:5
+msgid "Ticket Details"
+msgstr "Информация о тикете"
+
+#: ../components/metaboxes/ticket.php:15
+msgid "Price"
+msgstr "Цена"
+
+#: ../components/metaboxes/ticket.php:19
+#, fuzzy
+msgid "Button Text"
+msgstr "Кнопка Текст"
+
+#: ../components/metaboxes/ticket.php:23
+#, fuzzy
+msgid "Button Link"
+msgstr "Кнопка Ссылка"
+
+#: ../components/metaboxes/ticket.php:27
+msgid "Status"
+msgstr "Статус"
+
+#: ../components/taxonomies/poi-group.php:6
+#: ../components/taxonomies/poi-group.php:16
+msgid "POI Groups"
+msgstr "Группы точек интереса"
+
+#: ../components/taxonomies/poi-group.php:7
+msgid "POI Group"
+msgstr "Группа точек интереса"
+
+#: ../components/taxonomies/poi-group.php:8
+msgid "Search POI Groups"
+msgstr "Поиск групп точек интереса"
+
+#: ../components/taxonomies/poi-group.php:9
+msgid "All POI Groups"
+msgstr "Все группы точек интереса"
+
+#: ../components/taxonomies/poi-group.php:10
+msgid "Parent POI Group"
+msgstr "Родительская группа точек интереса"
+
+#: ../components/taxonomies/poi-group.php:11
+msgid "Parent POI Group:"
+msgstr "Родительская группа точек интереса:"
+
+#: ../components/taxonomies/poi-group.php:12
+msgid "Edit POI Group"
+msgstr "Редактировать группу точек интереса"
+
+#: ../components/taxonomies/poi-group.php:13
+msgid "Update POI Group"
+msgstr "Обновить группу точек интереса"
+
+#: ../components/taxonomies/poi-group.php:14
+msgid "Add New POI Group"
+msgstr "Добавить новую группу точек интереса"
+
+#: ../components/taxonomies/poi-group.php:15
+msgid "New POI Group"
+msgstr "Новая группа точек интереса"
+
+#: ../components/taxonomies/session-location.php:5
+msgid "Session Locations"
+msgstr "Места сессий"
+
+#: ../components/taxonomies/session-location.php:6
+msgid "Session Location"
+msgstr "Место сессии"
+
+#: ../components/taxonomies/session-location.php:7
+msgid "Search Session Locations"
+msgstr "Поиск мест сессий"
+
+#: ../components/taxonomies/session-location.php:8
+msgid "All Session Locations"
+msgstr "Все места сессий"
+
+#: ../components/taxonomies/session-location.php:9
+msgid "Parent Session Location"
+msgstr "Место родительской сессии"
+
+#: ../components/taxonomies/session-location.php:10
+msgid "Parent Session Location:"
+msgstr "Место родительской сессии:"
+
+#: ../components/taxonomies/session-location.php:11
+msgid "Edit Session Location"
+msgstr "Редактировать место сессии"
+
+#: ../components/taxonomies/session-location.php:12
+msgid "Update Session Location"
+msgstr "Обновить место сессии"
+
+#: ../components/taxonomies/session-location.php:13
+msgid "Add New Session Location"
+msgstr "Добавить новое место сессии"
+
+#: ../components/taxonomies/session-location.php:14
+msgid "New Session Location"
+msgstr "Новое место сессии"
+
+#: ../components/taxonomies/session-location.php:15
+#: ../multievent/includes/multievent-post-types.php:64
+msgid "Locations"
+msgstr "Места"
+
+#: ../components/taxonomies/session-track.php:5
+msgid "Session Tracks"
+msgstr "Треки сессий"
+
+#: ../components/taxonomies/session-track.php:6
+msgid "Session Track"
+msgstr "Трек сессии"
+
+#: ../components/taxonomies/session-track.php:7
+msgid "Search Session Tracks"
+msgstr "Поиск треков сессий"
+
+#: ../components/taxonomies/session-track.php:8
+msgid "All Session Tracks"
+msgstr "Все треки сессий"
+
+#: ../components/taxonomies/session-track.php:9
+msgid "Parent Session Track"
+msgstr "Трек родительской сессии"
+
+#: ../components/taxonomies/session-track.php:10
+msgid "Parent Session Track:"
+msgstr "Трек родительской сессии:"
+
+#: ../components/taxonomies/session-track.php:11
+msgid "Edit Session Track"
+msgstr "Редактировать трек сессии"
+
+#: ../components/taxonomies/session-track.php:12
+msgid "Update Session Track"
+msgstr "Обновить трек сессии"
+
+#: ../components/taxonomies/session-track.php:13
+msgid "Add New Session Track"
+msgstr "Добавить новый трек  сессии"
+
+#: ../components/taxonomies/session-track.php:14
+msgid "New Session Track"
+msgstr "Новый трек сессии"
+
+#: ../components/taxonomies/session-track.php:15
+msgid "Tracks"
+msgstr "Треки"
+
+#: ../components/taxonomies/sponsor-tier.php:5
+#: ../components/taxonomies/sponsor-tier.php:15
+msgid "Tiers"
+msgstr "Ступени"
+
+#: ../components/taxonomies/sponsor-tier.php:6
+msgid "Tier"
+msgstr "Ступень"
+
+#: ../components/taxonomies/sponsor-tier.php:7
+msgid "Search Tiers"
+msgstr "Поиск ступеней"
+
+#: ../components/taxonomies/sponsor-tier.php:8
+msgid "All Tiers"
+msgstr "Все ступени"
+
+#: ../components/taxonomies/sponsor-tier.php:9
+msgid "Parent Tier"
+msgstr "Родительская ступень"
+
+#: ../components/taxonomies/sponsor-tier.php:10
+msgid "Parent Tier:"
+msgstr "Родительская ступень:"
+
+#: ../components/taxonomies/sponsor-tier.php:11
+msgid "Edit Tier"
+msgstr "Редактировать ступень"
+
+#: ../components/taxonomies/sponsor-tier.php:12
+msgid "Update Tier"
+msgstr "Обновить ступень"
+
+#: ../components/taxonomies/sponsor-tier.php:13
+msgid "Add New Tier"
+msgstr "Добавить новую ступень"
+
+#: ../components/taxonomies/sponsor-tier.php:14
+msgid "New Tier"
+msgstr "Новая ступень"
+
+#: ../components/templates/schedule.php:30
+msgid "Filter by track"
+msgstr "Фильтровать по треку"
+
+#: ../components/templates/schedule.php:33
+#: ../components/templates/schedule.php:50
+#: ../components/templates/schedule.php:66
+#: ../components/templates/single-session.php:22
+#: ../components/templates/single-speaker.php:27
+msgid "All"
+msgstr "Все"
+
+#: ../components/templates/schedule.php:47
+msgid "Filter by location"
+msgstr "Фильтровать по месту"
+
+#: ../components/templates/schedule.php:63
+msgid "Filter by days"
+msgstr "Фильтровать по дням"
+
+#: ../components/templates/single-session.php:40
+msgid "Bookmark and Share"
+msgstr "Отметить и поделиться"
+
+#: ../components/templates/single-session.php:64
+#: ../components/templates/single-speaker.php:70
+msgid "Location:"
+msgstr "Место:"
+
+#: ../components/templates/single-session.php:65
+#: ../components/templates/single-speaker.php:71
+msgid "Date:"
+msgstr "Дата:"
+
+#: ../components/templates/single-session.php:66
+#: ../components/templates/single-speaker.php:72
+msgid "Time:"
+msgstr "Время:"
+
+#: ../components/templates/single-session.php:86
+msgid "Register to the session!"
+msgstr "Зарегистрироваться в сессии!"
+
+#: ../components/templates/single-speaker.php:37
+#: ../components/templates/single-speaker.php:87
+msgid "View full schedule"
+msgstr "Просмотр полного графика"
+
+#: ../components/templates/single-speaker.php:39
+msgid "Related Sessions"
+msgstr "Похожие сессии"
+
+#: ../components/templates/single-speaker.php:74
+msgid "View session"
+msgstr "Просмотр сессии"
+
+#: ../components/templates/speakers.php:40
+msgid "View profile"
+msgstr "Просмотр профиля"
+
+#: ../components/widgets/widget-call-to-action.php:33
+#: ../components/widgets/widget-call-to-action2.php:33
+msgid "Shows a section displaying the call to action."
+msgstr "Показывает раздел, отображающий призыв к действию."
+
+#: ../components/widgets/widget-call-to-action.php:36
+msgid " Call to Action"
+msgstr "Призыв к действию"
+
+#: ../components/widgets/widget-call-to-action.php:130
+#: ../components/widgets/widget-call-to-action2.php:112
+#: ../components/widgets/widget-comments.php:102
+#: ../components/widgets/widget-connect.php:99
+#: ../components/widgets/widget-contact.php:118
+#: ../components/widgets/widget-event-description.php:98
+#: ../components/widgets/widget-facebook-rsvp.php:143
+#: ../components/widgets/widget-instagram.php:131
+#: ../components/widgets/widget-media.php:98
+#: ../components/widgets/widget-news.php:121
+#: ../components/widgets/widget-registration.php:150
+#: ../components/widgets/widget-schedule.php:133
+#: ../components/widgets/widget-speakers.php:139
+#: ../components/widgets/widget-sponsors.php:108
+#: ../components/widgets/widget-tickets.php:105
+#: ../components/widgets/widget-timer.php:120
+#: ../components/widgets/widget-twitter.php:150
+msgid "Title:"
+msgstr "Название:"
+
+#: ../components/widgets/widget-call-to-action.php:133
+#: ../components/widgets/widget-contact.php:121
+#: ../components/widgets/widget-media.php:101
+#: ../components/widgets/widget-news.php:124
+#: ../components/widgets/widget-registration.php:153
+#: ../components/widgets/widget-schedule.php:136
+#: ../components/widgets/widget-speakers.php:142
+#: ../components/widgets/widget-sponsors.php:111
+#: ../components/widgets/widget-tickets.php:108
+msgid "Subtitle:"
+msgstr "Подзаголовок:"
+
+#: ../components/widgets/widget-call-to-action.php:136
+msgid "Text Color:"
+msgstr "Цвет текста:"
+
+#: ../components/widgets/widget-call-to-action.php:140
+msgid "Text Alignment:"
+msgstr "Расположение текста:"
+
+#: ../components/widgets/widget-call-to-action.php:147
+#: ../components/widgets/widget-call-to-action2.php:118
+msgid "Image:"
+msgstr "Изображение:"
+
+#: ../components/widgets/widget-call-to-action.php:150
+#: ../components/widgets/widget-call-to-action2.php:121
+msgid "Upload image"
+msgstr "Загрузить изображение"
+
+#: ../components/widgets/widget-call-to-action.php:152
+#: ../components/widgets/widget-call-to-action2.php:123
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: ../components/widgets/widget-call-to-action.php:156
+#: ../components/widgets/widget-sponsors.php:114
+msgid "Button text:"
+msgstr "Кнопка текст:"
+
+#: ../components/widgets/widget-call-to-action.php:159
+#: ../components/widgets/widget-sponsors.php:117
+msgid "Button url:"
+msgstr "Кнопка ссылка:"
+
+#: ../components/widgets/widget-call-to-action.php:162
+msgid "Button Hover Background Color:"
+msgstr "Кнопка Цвет фона всплывающего сообщения:"
+
+#: ../components/widgets/widget-call-to-action2.php:36
+msgid " Call to Action 2"
+msgstr " Призыв к действию 2"
+
+#: ../components/widgets/widget-call-to-action2.php:115
+msgid "Text:"
+msgstr "Текст:"
+
+#: ../components/widgets/widget-call-to-action2.php:127
+msgid "Image url:"
+msgstr "Ссылка мзображения:"
+
+#: ../components/widgets/widget-comments.php:33
+msgid "Shows a section displaying the latest comments of your posts."
+msgstr ""
+"Показывает раздел, отображающий последние комментарии на Ваши публикации."
+
+#: ../components/widgets/widget-comments.php:36
+msgid " Latest comments"
+msgstr "Последние комментарии"
+
+#: ../components/widgets/widget-comments.php:105
+msgid "Number of comments to show:"
+msgstr "Количество показываемых комментариев:"
+
+#: ../components/widgets/widget-connect.php:33
+msgid ""
+"Shows a section displaying icons for the social media links filled out in "
+"the Customizer"
+msgstr ""
+"Показывает раздел, отображающий иконки на ссылки на социальные сети, "
+"заполненные в Настройщике"
+
+#: ../components/widgets/widget-connect.php:36
+msgid " Social Media Links"
+msgstr " Ссылки на социальные сети"
+
+#: ../components/widgets/widget-contact.php:33
+msgid "Display a Contact Form"
+msgstr "Отображать форму связи"
+
+#: ../components/widgets/widget-contact.php:36
+msgid " Contact Form"
+msgstr " Форма связи"
+
+#: ../components/widgets/widget-contact.php:124
+msgid "\"Send message\" Text:"
+msgstr "\"Отправить сообщение\" Текст:"
+
+#: ../components/widgets/widget-contact.php:127
+msgid "Email Address To Send Forms To:"
+msgstr "Адрес email, куда направлять формы:"
+
+#: ../components/widgets/widget-contact.php:130
+msgid "Recaptcha Public Key:"
+msgstr "Открытый ключ контрольного изображения:"
+
+#: ../components/widgets/widget-contact.php:133
+msgid "Recaptcha Private Key:"
+msgstr "Закрытый ключ контрольного изображения:"
+
+#: ../components/widgets/widget-contact.php:172
+msgid "The reCAPTCHA wasn't entered correctly. Go back and try it again.!"
+msgstr "КОНТРОЛЬНОЕ ИЗОБРАЖЕНИЕ введено неверно. Вернитесь и попробуйте снова!"
+
+#: ../components/widgets/widget-contact.php:180
+msgid "Forgot your name!"
+msgstr "Забыли свое имя!"
+
+#: ../components/widgets/widget-contact.php:190
+msgid "Forgot to enter in your e-mail address."
+msgstr "Забыли ввести свой адрес email."
+
+#: ../components/widgets/widget-contact.php:194
+msgid "You entered an invalid email address."
+msgstr "Вы ввели неверный адрес email."
+
+#: ../components/widgets/widget-contact.php:203
+msgid "You forgot to enter a message!"
+msgstr "Вы забыли ввести сообщение! "
+
+#: ../components/widgets/widget-contact.php:216
+msgid "Submitted message from "
+msgstr "Отправитель сообщения:"
+
+#: ../components/widgets/widget-contact.php:217
+msgid "Name:"
+msgstr "Имя:"
+
+#: ../components/widgets/widget-contact.php:217
+msgid "Email:"
+msgstr "Email:"
+
+#: ../components/widgets/widget-contact.php:217
+msgid "Comments:"
+msgstr "Комментарии:"
+
+#: ../components/widgets/widget-contact.php:223
+msgid "Your email was sent."
+msgstr "Ваше письмо отправлено."
+
+#: ../components/widgets/widget-contact.php:226
+msgid "Error submitting the form"
+msgstr "Ошибка отправки формы"
+
+#: ../components/widgets/widget-event-description.php:33
+msgid "Shows the event description"
+msgstr "Показывает описание события"
+
+#: ../components/widgets/widget-event-description.php:36
+msgid " Event Description"
+msgstr " Описание события:"
+
+#: ../components/widgets/widget-event-description.php:101
+msgid "Content:"
+msgstr "Содержание:"
+
+#: ../components/widgets/widget-explore.php:33
+msgid "Shows a section displaying points of interest & maps"
+msgstr "Показывает раздел, отображающий точки интереса и карты"
+
+#: ../components/widgets/widget-explore.php:36
+msgid " Points of Interest"
+msgstr "Точки интереса"
+
+#: ../components/widgets/widget-explore.php:105
+msgid "Widget Title:"
+msgstr "Название элемента:"
+
+#: ../components/widgets/widget-explore.php:107
+msgid "Google Map Zoom:"
+msgstr "Увеличение Google карты:"
+
+#: ../components/widgets/widget-explore.php:108
+msgid "From 1 to 21"
+msgstr "От 1 до 21"
+
+#: ../components/widgets/widget-facebook-rsvp.php:33
+msgid "Shows a section displaying users who've RSVP'd via Facebook"
+msgstr ""
+"Показывает раздел, отображающий пользователей, кто использует RSVP через "
+"Facebook"
+
+#: ../components/widgets/widget-facebook-rsvp.php:36
+msgid " Facebook RSVP Stats"
+msgstr "Статистика Facebook RSVP"
+
+#: ../components/widgets/widget-facebook-rsvp.php:146
+msgid "Link to Event on Facebook:"
+msgstr "Ссылка на событие на Facebook:"
+
+#: ../components/widgets/widget-facebook-rsvp.php:149
+#: ../components/widgets/widget-instagram.php:134
+#: ../components/widgets/widget-twitter.php:153
+#, fuzzy
+msgid "Link Text:"
+msgstr "Ссылка Текст:"
+
+#: ../components/widgets/widget-facebook-rsvp.php:152
+msgid "Event ID:"
+msgstr "ID события:"
+
+#: ../components/widgets/widget-facebook-rsvp.php:155
+msgid "App ID:"
+msgstr "ID приложения:"
+
+#: ../components/widgets/widget-facebook-rsvp.php:158
+msgid "Secret Key:"
+msgstr "Секретный ключ:"
+
+#: ../components/widgets/widget-footer-text-columns.php:33
+#: ../components/widgets/widget-media.php:33
+#: ../components/widgets/widget-text-columns.php:33
+#: ../components/widgets/widget-timer.php:33
+msgid "Shows text columns organized in columns"
+msgstr "Показывает текстовые колонки, разбитые на колонки:"
+
+#: ../components/widgets/widget-footer-text-columns.php:36
+msgid " Footer Text Columns"
+msgstr " Нижний колонтитул Текстовые колонки"
+
+#: ../components/widgets/widget-footer-text-columns.php:115
+#: ../components/widgets/widget-text-columns.php:113
+msgid "Title 1:"
+msgstr "Название 1:"
+
+#: ../components/widgets/widget-footer-text-columns.php:118
+#: ../components/widgets/widget-text-columns.php:116
+msgid "Content 1:"
+msgstr "Содержание 1:"
+
+#: ../components/widgets/widget-footer-text-columns.php:121
+#: ../components/widgets/widget-text-columns.php:119
+msgid "Title 2:"
+msgstr "Название 2:"
+
+#: ../components/widgets/widget-footer-text-columns.php:124
+#: ../components/widgets/widget-text-columns.php:122
+msgid "Content 2:"
+msgstr "Содержание 2:"
+
+#: ../components/widgets/widget-footer-text-columns.php:127
+#: ../components/widgets/widget-text-columns.php:125
+msgid "Title 3:"
+msgstr "Название 3:"
+
+#: ../components/widgets/widget-footer-text-columns.php:130
+#: ../components/widgets/widget-text-columns.php:128
+msgid "Content 3:"
+msgstr "Содержание 3:"
+
+#: ../components/widgets/widget-instagram.php:33
+msgid "Shows a section displaying instagram photos"
+msgstr "Показывает раздел, содержащий фотографии из Instagram"
+
+#: ../components/widgets/widget-instagram.php:36
+msgid " Instagram"
+msgstr " Instagram"
+
+#: ../components/widgets/widget-instagram.php:137
+msgid "User ID:"
+msgstr "ID пользователя:"
+
+#: ../components/widgets/widget-instagram.php:140
+msgid "Client ID:"
+msgstr "ID клиента:"
+
+#: ../components/widgets/widget-instagram.php:143
+msgid "Client Secret:"
+msgstr "Секрет клиента:"
+
+#: ../components/widgets/widget-media.php:36
+msgid " Media Grid"
+msgstr " Средняя сетка"
+
+#: ../components/widgets/widget-news.php:33
+msgid "Shows a section displaying the latest posts"
+msgstr "Показывает раздел, отображающий последние публикации"
+
+#: ../components/widgets/widget-news.php:36
+msgid " Latest News"
+msgstr " Последние новости"
+
+#: ../components/widgets/widget-news.php:127
+msgid "\"View all news\" Text:"
+msgstr "\"Просмотр всех новостей\" Текст:"
+
+#: ../components/widgets/widget-registration.php:33
+msgid "Shows registration information & ticket display"
+msgstr "Показывает информацию о регистрации и экран тикета"
+
+#: ../components/widgets/widget-registration.php:36
+msgid " Registration"
+msgstr " Регистрация"
+
+#: ../components/widgets/widget-registration.php:156
+msgid "Main Text:"
+msgstr "Главный текст:"
+
+#: ../components/widgets/widget-registration.php:162
+msgid "Show in top menu:"
+msgstr "Показывать а главном меню:"
+
+#: ../components/widgets/widget-registration.php:164
+#: ../components/widgets/widget-registration.php:171
+msgid "With this text:"
+msgstr "С этим текстом:"
+
+#: ../components/widgets/widget-registration.php:166
+#: ../components/widgets/widget-registration.php:173
+msgid "linking to this url:"
+msgstr "посылание на эту ссылку:"
+
+#: ../components/widgets/widget-registration.php:169
+msgid "Show call to action:"
+msgstr "Показывать призыв к действию:"
+
+#: ../components/widgets/widget-schedule.php:33
+msgid "Displays Event Schedule widget."
+msgstr "Показывает элемент График событий:"
+
+#: ../components/widgets/widget-schedule.php:36
+msgid " Event Schedule"
+msgstr " График событий"
+
+#: ../components/widgets/widget-schedule.php:140
+msgid "\"More info\" Text:"
+msgstr "\"Больше информации\" Текст:"
+
+#: ../components/widgets/widget-schedule.php:143
+msgid "\"View full schedule\" Button Text:"
+msgstr "\"Просмотр полного графика\" Кнопка Текст:"
+
+#: ../components/widgets/widget-speakers.php:33
+msgid ""
+"Shows a section displaying speakers created in the Speakers custom post type."
+msgstr ""
+"Показывает раздел, отображающий выступающих, созданных в настраиваемом типе "
+"публикаций Выступающие."
+
+#: ../components/widgets/widget-speakers.php:36
+msgid " Speaker List"
+msgstr " Список выступающих"
+
+#: ../components/widgets/widget-speakers.php:145
+msgid "\"View profile\" Text:"
+msgstr "\"Просмотр профиля\" Текст:"
+
+#: ../components/widgets/widget-speakers.php:148
+msgid "\"View all speakers\" Text:"
+msgstr "\"Просмотр всех выступающих\" Текст:"
+
+#: ../components/widgets/widget-speakers.php:151
+msgid "Speakers:"
+msgstr "Выступающие:"
+
+#: ../components/widgets/widget-sponsors.php:33
+msgid ""
+"Shows a section displaying sponsors by tier type created in the Sponsors "
+"custom post type."
+msgstr ""
+"Показывает раздел, отображающий спонсоров по типу ступени в настраиваемом "
+"типе публикаций Спонсоры."
+
+#: ../components/widgets/widget-sponsors.php:36
+msgid " Sponsor List"
+msgstr " Список спонсоров"
+
+#: ../components/widgets/widget-text-columns.php:36
+msgid " Text Columns"
+msgstr " Текстовые колонки"
+
+#: ../components/widgets/widget-tickets.php:33
+msgid ""
+"Shows a section displaying tickets by tier type created in the Tickets "
+"custom post type."
+msgstr ""
+"Показывает раздел, отображающий тикеты по типу ступени в настраиваемом типе "
+"публикаций Тикеты."
+
+#: ../components/widgets/widget-tickets.php:36
+msgid " Tickets List"
+msgstr " Список тикетов"
+
+#: ../components/widgets/widget-timer.php:36
+msgid " Event Timer"
+msgstr " Таймер событий"
+
+#: ../components/widgets/widget-timer.php:123
+msgid "Countdown Date:"
+msgstr "Дата отсчета:"
+
+#: ../components/widgets/widget-timer.php:127
+msgid "Button Text:"
+msgstr "Кнопка Текст:"
+
+#: ../components/widgets/widget-timer.php:130
+msgid "Button Link:"
+msgstr "Кнопка Ссылка:"
+
+#: ../components/widgets/widget-twitter.php:33
+msgid "Shows a section displaying latest tweets"
+msgstr "Показывает раздел, отображающий последние твиты"
+
+#: ../components/widgets/widget-twitter.php:36
+msgid " Latest Tweets"
+msgstr "Последние твиты"
+
+#: ../components/widgets/widget-twitter.php:156
+#, fuzzy
+msgid "Event Hashtag Keyword:"
+msgstr "Событие Хештег Ключевое слово:"
+
+#: ../components/widgets/widget-twitter.php:158
+msgid "(Leave out the #)"
+msgstr "(Пропустить №)"
+
+#: ../components/widgets/widget-twitter.php:160
+msgid "Button Width:"
+msgstr "Ширина кнопки:"
+
+#: ../components/widgets/widget-twitter.php:163
+msgid "Access Token:"
+msgstr "Маркер доступа:"
+
+#: ../components/widgets/widget-twitter.php:166
+msgid "Access Token Secret:"
+msgstr "Секретный маркер доступа:"
+
+#: ../components/widgets/widget-twitter.php:169
+msgid "Consumer Key:"
+msgstr "Потребительский ключ:"
+
+#: ../components/widgets/widget-twitter.php:172
+msgid "Consumer Secret:"
+msgstr "Потребительский секрет:"
+
+#: ../helpers/cpt/sessions.php:105
+msgid "More info"
+msgstr "Больше информации"
+
+#: ../inc/comments.php:11
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации"
+
+#: ../inc/comments.php:16
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../inc/comments.php:24
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: ../inc/event-admin.php:12
+msgid "Theme Options saved"
+msgstr "Опции темы сохранены"
+
+#: ../inc/event-admin.php:18
+#, fuzzy
+msgid "Event Framework Logo"
+msgstr "Инфраструктура обработки событий Лого"
+
+#: ../inc/event-admin.php:28
+msgid "View Theme Documentation"
+msgstr "Просмотр документации темы"
+
+#: ../inc/event-admin.php:29
+msgid "Save options"
+msgstr "Сохранить опции"
+
+#: ../inc/taxonomy-meta.php:11
+msgid "Color"
+msgstr "Цвет"
+
+#: ../inc/fields/font.php:47
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: ../inc/fields/gallery.php:21
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: ../inc/fields/gallery.php:24
+msgid "or add a video url (Youtube or Vimeo)"
+msgstr "или лдобавить ссылку на видео (Youtube или Vimeo)"
+
+#: ../inc/fields/gallery.php:27
+msgid "Add Video"
+msgstr "Добавить видео"
+
+#: ../lib/taxonomy-meta.php:124 ../lib/taxonomy-meta.php:465
+msgid "Delete this image"
+msgstr "Удалить это изображение"
+
+#: ../lib/taxonomy-meta.php:124 ../lib/taxonomy-meta.php:434
+#: ../lib/taxonomy-meta.php:465
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../lib/taxonomy-meta.php:440
+msgid "Upload new files"
+msgstr "Загрузить новые файлы"
+
+#: ../lib/taxonomy-meta.php:443
+msgid "Add more file"
+msgstr "Добавить еще файл"
+
+#: ../lib/taxonomy-meta.php:471
+msgid "Upload new image"
+msgstr "Загрузить новое изображение"
+
+#: ../lib/taxonomy-meta.php:479
+msgid "Select a color"
+msgstr "Выбрать цвет"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:31
+#: ../lib/api/admin/class-cc-tk-license-menu.php:46
+msgid "Theme Activation"
+msgstr "Активация темы"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:40
+msgid "License Activation"
+msgstr "Активация лицензии"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:53
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:66
+msgid "License Key"
+msgstr "Ключ лицензии"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:67
+msgid "License email"
+msgstr "Email для лицензии"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:71
+msgid "Theme License Deactivation"
+msgstr "Деактивация лицензии на тему"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:72
+msgid "Deactivate Theme License"
+msgstr "Деактивировать лицензию на тему"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:151
+msgid "Plugin activated."
+msgstr "Плагин активирован."
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:157
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+"Ошибка соединения из-за лицензионного ключа API сервера. Попробуйте еще раз "
+"позже."
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:241
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+"Не удалось деактивировать лицензию. Воспользуйтесь вкладкой Деактивация "
+"лицензии для того, чтобы деактивировать лицензию вручную перед активацией "
+"новой лицензии."
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:274
+msgid "Theme license deactivated."
+msgstr "Лицензия на тему деактивирована."
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:294
+msgid "Deactivates theme license so it can be used on another blog."
+msgstr ""
+"Деактивирует лицензию на тему для того, чтобы она могла использоваться на "
+"другом блоге."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:364
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Срок действия лицензионного ключа для %s истек. Вы можете повторно "
+"активировать или купить лицензионный ключ со своей <a href=\"%s\" target="
+"\"_blank\">панели управления</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:378
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Подписка на %s приостановлена. Вы можете повторно активировать подписку со "
+"своей <a href=\"%s\" target=\"_blank\">панели управления</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:392
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"Подписка на %s отменена. Вы можете возобновить подписку со своей <a href=\"%s"
+"\" target=\"_blank\">панели управления</a>. На Ваш адрес email будет выслан "
+"новый лицензионный ключ после выполнения Вашего заказа."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:406
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Срок действия подписки на %s истек. Вы можете повторно активировать подписку "
+"со своей <a href=\"%s\" target=\"_blank\">панели управления</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:420
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"Подписка на %s заморожена. Вы можете повторно активировать подписку со своей "
+"<a href=\"%s\" target=\"_blank\">панели управления</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:434
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"Подписка на %s до сих пор в статусе ожидания. Вы можете проверить статус "
+"подписки в своей <a href=\"%s\" target=\"_blank\">панели управления</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:448
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"Подписка на %s  была перемещена в корзину и вскоре будет удалена. Вы можете "
+"купить новую подписку  в своей <a href=\"%s\" target=\"_blank\">панели "
+"управления</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:462
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Не удалось найти подписку на %s. Вы можете купить подписку  в своей <a href="
+"\"%s\" target=\"_blank\">панели управления</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:476
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+"Не удалось найти лицензионный ключ для %s. Возможно, Вы забыли ввести "
+"лицензионный ключ при настройке %s, или ключ был деактивирован в Вашей "
+"учетной записи. Вы можете повторно активировать или купить лицензионный ключ "
+"в своей <a href=\"%s\" target=\"_blank\">панели управления</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:490
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Разрешение на скачивание для %s было отменено, возможно, из-за истечения "
+"срока лицензионного ключа или подписки. Вы можете повторно активировать или "
+"купить лицензионный ключ в своей <a href=\"%s\" target=\"_blank\">панели "
+"управления</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:504
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"Не активировано %s. Перейдите на страницу настроек и введите лицензионный "
+"ключ и информацию из лицензионного письма  для активации %s."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:518
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Вы изменили подписку на %s, поэтому Вам надо ввести свой новый лицензионный "
+"ключ API на странице настроек. Лицензионный ключ должен был прийти на Ваш "
+"email, если он не пришел то Вы можете получить его, войдя в свою <a href=\"%s"
+"\" target=\"_blank\">панель управления</a>."
+
+#: ../lib/importer/importer.php:133 ../lib/importer/importer.php:142
+#: ../lib/importer/importer.php:193 ../lib/importer/importer.php:197
+#: ../lib/importer/importer.php:206
+msgid "Sorry, there has been an error."
+msgstr "Извините, возникла ошибка"
+
+#: ../lib/importer/importer.php:134
+msgid "The file does not exist, please try again."
+msgstr "Файлы не существуют, пожалуйста, попробуйте еще раз."
+
+#: ../lib/importer/importer.php:177
+msgid "All done."
+msgstr "Все готово."
+
+#: ../lib/importer/importer.php:177
+msgid "Have fun!"
+msgstr "Веселитесь!"
+
+#: ../lib/importer/importer.php:178
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Не забывайте обновлять пароли и роли импортированных пользователей."
+
+#: ../lib/importer/importer.php:198
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Не удалось найти экспортный файл в <code>%s</code>. Возможно, это произошло "
+"из-за проблемы с разрешением."
+
+#: ../lib/importer/importer.php:214
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Файл WXR (версия %s) может не поддерживаться этой версией модуля импорта. "
+"Пожалуйста, попробуйте обновить."
+
+#: ../lib/importer/importer.php:239
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Не удалось импортировать автора %s. Их публикации будут присвоены текущему "
+"пользователю."
+
+#: ../lib/importer/importer.php:265
+msgid "Assign Authors"
+msgstr "Назначить авторов"
+
+#: ../lib/importer/importer.php:266
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"Для упрощения редактирования и сохранения импортируемого содержимого Вы "
+"можете рассмотреть вариант переназначения автора импортируемого элемента на "
+"существующего пользователя этого сайта. Например, Вы можете импортировать "
+"все элементы как элементы <code>admin</code>s."
+
+#: ../lib/importer/importer.php:268
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Если новый пользователь создан в WordPress, то новый пароль будет "
+"сгенерирован случайным образом и роль нового пользователя будет установлена "
+"как %s. Нужно будет вручную изменять информацию о новом пользователе."
+
+#: ../lib/importer/importer.php:278
+msgid "Import Attachments"
+msgstr "Импорт вложений"
+
+#: ../lib/importer/importer.php:281
+msgid "Download and import file attachments"
+msgstr "Скачать и импортировать файловые вложения"
+
+#: ../lib/importer/importer.php:298
+msgid "Import author:"
+msgstr "Импортируемый автор:"
+
+#: ../lib/importer/importer.php:309
+msgid "or create new user with login name:"
+msgstr "или создайте нового пользователя с логин-именем:"
+
+#: ../lib/importer/importer.php:312
+msgid "as a new user:"
+msgstr "как новый пользователь:"
+
+#: ../lib/importer/importer.php:320
+msgid "assign posts to an existing user:"
+msgstr "назначить публикации существующему пользователю:"
+
+#: ../lib/importer/importer.php:322
+msgid "or assign posts to an existing user:"
+msgstr "или назначить публикации существующему пользователю:"
+
+#: ../lib/importer/importer.php:323
+msgid "- Select -"
+msgstr "- Выбрать -"
+
+#: ../lib/importer/importer.php:373
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Не удалось создать нового пользователя для %s. Их публикации будут присвоены "
+"текущему пользователю."
+
+#: ../lib/importer/importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Не удалось импортировать категорию %s"
+
+#: ../lib/importer/importer.php:464
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Не удалось импортировать тег публикации %s"
+
+#: ../lib/importer/importer.php:510 ../lib/importer/importer.php:651
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Не удалось импортировать %s %s"
+
+#: ../lib/importer/importer.php:536
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Не удалось импортировать &#8220;%s&#8221;: Неверный тип публикации %s"
+
+#: ../lib/importer/importer.php:558
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; уже существует."
+
+#: ../lib/importer/importer.php:617
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Не удалось импортировать %s &#8220;%s&#8221;"
+
+#: ../lib/importer/importer.php:782
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Элемент меню пропущен из-за отсутствующей строки меню"
+
+#: ../lib/importer/importer.php:789
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Элемент меню пропущен из-за неверной строки меню: %s"
+
+#: ../lib/importer/importer.php:852
+msgid "Fetching attachments is not enabled"
+msgstr "Загрузка вложений не включена"
+
+#: ../lib/importer/importer.php:865
+msgid "Invalid file type"
+msgstr "Неверный тип файла"
+
+#: ../lib/importer/importer.php:909
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не отвечает"
+
+#: ../lib/importer/importer.php:915
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Удаленный сервер прислал сообщение об ошибке %1$d %2$s"
+
+#: ../lib/importer/importer.php:922
+msgid "Remote file is incorrect size"
+msgstr "Удаленный файл имеет неправильный размер"
+
+#: ../lib/importer/importer.php:927
+msgid "Zero size file downloaded"
+msgstr "Скачан файл с нулевым размером"
+
+#: ../lib/importer/importer.php:933
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Слишком большой удаленный файл, ограничение - %s"
+
+#: ../lib/importer/importer.php:1032
+msgid "Import WordPress"
+msgstr "Импорт WordPress"
+
+#: ../lib/importer/importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Доступна новая версия этого модуля импорта. Пожалуйста, обновите версию %s "
+"для обеспечения совместимости с более новыми файлами экспорта."
+
+#: ../lib/importer/importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Привет! Загрузите свой WordPress eXtended RSS (WXR) файл и импортируем "
+"публикации, страницы, комментарии, настраиваемые поля, категории и теги на "
+"сайт."
+
+#: ../lib/importer/importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Выберите WXR (.xml) файл для скачивания, затем нажмите Скачать файл и импорт."
+
+#: ../lib/importer/importer.php:1124
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+"Импорт <strong>публикаций, страниц, комментариев, настраиваемых полей, "
+"категорий и тегов </strong> из файла экспорта WordPress."
+
+#: ../lib/importer/parsers.php:43 ../lib/importer/parsers.php:75
+#: ../lib/importer/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr "Произошла ошибка во время чтения этого WXR файла"
+
+#: ../lib/importer/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Подробности даны выше. Модуль импорта теперь попробует другой анализатор..."
+
+#: ../lib/importer/parsers.php:87 ../lib/importer/parsers.php:92
+#: ../lib/importer/parsers.php:284 ../lib/importer/parsers.php:472
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Это не WXR файл, отсутствует/неверный номер версии WXR"
+
+#: ../lib/style-switcher/style-switcher.php:50
+msgid "Select Skin"
+msgstr "Вберите обложку"
+
+#: ../multievent/includes/class-multievent-renderer.php:26
+#: ../multievent/includes/class-multievent-renderer.php:29
+#: ../multievent/includes/admin/class-multievent-admin.php:118
+#: ../multievent/includes/admin/class-multievent-admin.php:120
+msgid "Select Event"
+msgstr "Вберите событие"
+
+#: ../multievent/includes/class-multievent-widgets.php:16
+msgid "Multievent Page"
+msgstr "Страница с несколькими событиями"
+
+#: ../multievent/includes/class-multievent-widgets.php:18
+msgid ""
+"Widgets in this area will be shown on the right hand side of multievent page."
+msgstr ""
+"Элементы в этой области будут показаны справа от страницы с несколькими "
+"событиями."
+
+#: ../multievent/includes/multievent-post-types.php:28
+#: ../multievent/includes/multievent-post-types.php:38
+msgid "Events"
+msgstr "События"
+
+#: ../multievent/includes/multievent-post-types.php:29
+#: ../multievent/includes/admin/class-multievent-admin.php:41
+#: ../multievent/includes/admin/forms/multievent-box.php:26
+msgid "Event"
+msgstr "Событие"
+
+#: ../multievent/includes/multievent-post-types.php:31
+msgid "Add New Event"
+msgstr "Добавить новое событие"
+
+#: ../multievent/includes/multievent-post-types.php:32
+msgid "Edit Event"
+msgstr "Редактировать событие"
+
+#: ../multievent/includes/multievent-post-types.php:33
+msgid "New Event"
+msgstr "Новое событие"
+
+#: ../multievent/includes/multievent-post-types.php:34
+msgid "View Event"
+msgstr "Просмотр события"
+
+#: ../multievent/includes/multievent-post-types.php:35
+msgid "Search Events"
+msgstr "Поиск событий"
+
+#: ../multievent/includes/multievent-post-types.php:36
+msgid "No Event found"
+msgstr "События не найдены"
+
+#: ../multievent/includes/multievent-post-types.php:37
+msgid "No Event found in trash"
+msgstr "События в корзине не найдены"
+
+#: ../multievent/includes/multievent-post-types.php:54
+msgid "Events Locations"
+msgstr "Места событий"
+
+#: ../multievent/includes/multievent-post-types.php:55
+msgid "Event Location"
+msgstr "Место события"
+
+#: ../multievent/includes/multievent-post-types.php:56
+msgid "Search Events Locations"
+msgstr "Поиск мест событий"
+
+#: ../multievent/includes/multievent-post-types.php:57
+msgid "All Events Locations"
+msgstr "Все места событий"
+
+#: ../multievent/includes/multievent-post-types.php:58
+msgid "Parent Event Location"
+msgstr "Место родительского события"
+
+#: ../multievent/includes/multievent-post-types.php:59
+msgid "Parent Event Location:"
+msgstr "Место родительского события:"
+
+#: ../multievent/includes/multievent-post-types.php:60
+msgid "Edit Event Location"
+msgstr "Редактировать место события"
+
+#: ../multievent/includes/multievent-post-types.php:61
+msgid "Update Event Location"
+msgstr "Обновить место события"
+
+#: ../multievent/includes/multievent-post-types.php:62
+msgid "Add New Event Location"
+msgstr "Добавить новое место события "
+
+#: ../multievent/includes/multievent-post-types.php:63
+msgid "New Event Location"
+msgstr "Новое место события"
+
+#: ../multievent/includes/admin/class-multievent-admin.php:169
+msgid "This widget area is for event."
+msgstr "Эта область элемента для события."
+
+#: ../multievent/includes/admin/forms/multievent-box.php:29
+msgid "Choose a Event..."
+msgstr "Выберите событие..."

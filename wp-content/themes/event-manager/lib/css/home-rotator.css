@@ -1,0 +1,16 @@
+
+
+/* Home Page Rotator */
+
+#home-rotator { width:1200px; margin:0 auto 30px;  }
+#home-rotator .slider-carousel { width:1200px; height:205px;  }
+.jcarousel-clip { width:1200px; height:205px; }
+#home-rotator .slider-carousel ul { list-style:none; width:1200px; height:205px; position:relative; overflow:hidden; float:left; display:inline;  }
+#home-rotator .slider-carousel ul li { width:1200px; height:205px; float:left; display:inline;  }
+#home-rotator .slider-carousel ul li a { }
+#home-rotator .slider-carousel ul li img { }
+
+.left-arrow { width:40px; height:40px; background:url('../../images/jarrows.png') no-repeat 0 0;  position:absolute; top:90px; left:10px; display:none;  }
+.left-arrow:hover { background:url('../../images/jarrows.png') no-repeat 0 bottom; cursor:pointer;  }
+.right-arrow { width:40px; height:40px; background:url('../../images/jarrows.png') no-repeat right 0 ;  position:absolute; top:90px; right:10px;  display:none;  }
+.right-arrow:hover { background:url('../../images/jarrows.png') no-repeat right bottom;  cursor:pointer; }

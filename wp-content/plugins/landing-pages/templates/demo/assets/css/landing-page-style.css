@@ -1,0 +1,111 @@
+ul li, p {
+font-size: 16px !important;
+line-height: 1.3em !important;
+}
+
+
+.top{ margin-top: 30px; }
+.bas{padding-bottom: 20px;}
+.up{margin-top: 4rem;}
+.mini{ min-height: 195px;}
+
+.spacer{
+    margin: 20px 0;
+}
+.img-responsive{width: 100%;}                       
+.bg-red{ background-color: #d73536;}                        
+.bg-blue{ background-color: #2e294e;}
+.bg-yellow{ background-color: #bca846;}
+.bg-gray{ background-color: #313131;}
+.bg-green{ background-color: #1b998b;}
+.bg-violet{ background-color: #2e294e;}
+.bg-white{ background-color: white;}
+.font-white{color: white;}
+.font-red{color: #d73536;}
+.font-green{color: #1b998b;}
+.font-violet{color: #2e294e;}
+.page-container{width: 600px; margin: 0 auto;}
+.bloc-padding{padding: 20px;}
+.title-padding-bottom{padding-bottom: 15px;}
+.title-padding-both{padding: 15px 0;}
+.bg-soft-gray{ background-color: #eeeeee;}
+.border-gray{
+    border: 1px solid #313131;
+}
+.border-bloc-gray{
+    border: 1px solid #313131;
+    padding: 30px;
+}
+.img-kit{
+    width:200px;
+    height:auto;
+}
+a .btn-kit{
+    background-color: #D44541;
+    color: #fff;
+    padding: 5px 10px;
+}
+a:hover{text-decoration: none !important;}
+.btn-kit:hover{
+    background-color: #1b998b !important;
+}
+
+.sub-line{
+    position: relative;
+    top: -5px;
+    width: 15%;
+    height: 2px;
+    margin: 0 auto;
+}
+
+.bloc-kit{
+    padding: 15px 0;
+}
+.border-bloc-green{
+    border: 1px solid #1b998b;
+    padding: 30px;
+    margin: 15px 0;
+}
+
+.border-bloc-violet{
+    border: 1px solid #2e294e;
+    padding: 30px;
+}
+.border-bloc-gray{
+    border: 1px solid #313131;
+    padding: 30px;
+    min-height: 185px;
+}
+.bloc-gray-planif{
+    min-height: 340px;
+}
+.btn-red{
+    background-color: #d73536;
+    color: white;
+    padding: 15px 20px;
+    margin: 20px auto;
+    font-size: 15px;
+    font-weight: 600;
+}
+.btn-green{
+    background-color: #1b998b;
+    color: white;
+    padding: 15px 20px;
+    margin: 20px auto;
+    font-size: 15px;
+    font-weight: 600;
+}
+.btn-violet{
+    background-color: #2e294e;
+    color: white;
+    padding: 15px 20px;
+    margin: 20px 0;
+    font-size: 15px;
+    font-weight: 600;
+}
+a.btn-hover-green button:hover{background-color: #1b998b;}
+a.btn-hover-red button:hover{background-color: #d73536;}
+.gif-logo{
+    max-width: 600px;
+}
+.btn:hover{color:#bca846 !important;}

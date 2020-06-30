@@ -1,0 +1,38 @@
+
+# BEGIN All In One WP Security
+#AIOWPS_BASIC_HTACCESS_RULES_START
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+ServerSignature Off
+LimitRequestBody 10240000
+<Files wp-config.php>
+order allow,deny
+deny from all
+</Files>
+#AIOWPS_BASIC_HTACCESS_RULES_END
+#AIOWPS_PINGBACK_HTACCESS_RULES_START
+<Files xmlrpc.php>
+order deny,allow
+deny from all
+</Files>
+#AIOWPS_PINGBACK_HTACCESS_RULES_END
+# END All In One WP Security
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /salonamiante.fr/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{QUERY_STRING} !lp-variation-id
+RewriteRule ^go/([^/]*)/([0-9]+)/ /salonamiante.fr/go/$1?lp-variation-id=$2 [QSA,L]
+RewriteCond %{QUERY_STRING} !lp-variation-id
+RewriteRule ^go/([^/]*)? /salonamiante.fr/wp-content/plugins/landing-pages/modules/module.redirect-ab-testing.php?permalink_name=$1  [QSA,L]
+RewriteRule ^landing-page=([^/]*)? /salonamiante.fr/wp-content/plugins/landing-pages/modules/module.redirect-ab-testing.php?permalink_name=$1 [QSA,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /salonamiante.fr/index.php [L]
+</IfModule>
+
+# END WordPress

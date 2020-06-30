@@ -1,0 +1,847 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vertoh\n"
+"POT-Creation-Date: 2014-11-28 16:17+0100\n"
+"PO-Revision-Date: 2015-01-12 18:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: Showthemes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:8
+msgid "404 Not Found"
+msgstr "404 не найдено"
+
+#: ../404.php:9
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Извините, но страница, которую Вы запросили, не существует. Возможно, "
+"поможет поиск."
+
+#: ../archive.php:10 ../category.php:10 ../exhibitors.php:41 ../page.php:11
+#: ../schedule.php:25 ../search.php:10 ../single-exhibitor.php:13
+#: ../single-session.php:16 ../single-speaker.php:26 ../single.php:12
+#: ../speakers.php:19
+msgid "Home"
+msgstr "Главная"
+
+#: ../archive.php:14
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Ежедневные архивы: <span>%s</span>"
+
+#: ../archive.php:16
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Ежемесячные архивы: <span>%s</span>"
+
+#: ../archive.php:18
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Ежегодные архивы: <span>%s</span>"
+
+#: ../archive.php:20
+#, php-format
+msgid "All posts by: %s"
+msgstr "Все публикации: %s"
+
+#: ../archive.php:22
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Тег-архивы: %s"
+
+#: ../archive.php:24
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../comments.php:24 ../components/templates/widgets/ef_contact.php:9
+msgid "First Name and Last Name"
+msgstr "Имя и фамилия"
+
+#: ../comments.php:28 ../ef-options.php:82
+#: ../components/templates/widgets/ef_contact.php:13
+msgid "Email Address"
+msgstr "Адрес email"
+
+#: ../comments.php:32
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: ../comments.php:37
+msgid "Comment"
+msgstr "Комментарий"
+
+#: ../comments.php:55
+msgid "Submit a comment"
+msgstr "Отправить комментарий"
+
+#: ../comments.php:56
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr "Ваш адрес email не будет опубликован. Обязательные поля отмечены *"
+
+#: ../comments.php:62
+msgid "Leave comment"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:66
+#, php-format
+msgid "There are %s comments"
+msgstr "Есть %s комментариев"
+
+#: ../comments.php:75
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: ../ef-options.php:41
+msgid "Logo"
+msgstr "Лого"
+
+#: ../ef-options.php:42
+msgid "Header Menu Icon Color"
+msgstr "Цвет иконок меню верхнего колонтитула"
+
+#: ../ef-options.php:43
+msgid "Footer Copyright Content"
+msgstr "Информация об авторском праве в нижнем колонтитуле"
+
+#: ../ef-options.php:49 ../ef-options.php:100
+msgid "Top Bar"
+msgstr "Верхняя панель"
+
+#: ../ef-options.php:51 ../ef-options.php:102
+msgid "Transparent"
+msgstr "Прозрачный"
+
+#: ../ef-options.php:52 ../ef-options.php:103
+msgid "White"
+msgstr "Белый"
+
+#: ../ef-options.php:56 ../ef-options.php:107
+msgid "Header Type"
+msgstr "Тип верхнего колонтитула"
+
+#: ../ef-options.php:58
+msgid "Images Slider"
+msgstr "Ползунок изображений"
+
+#: ../ef-options.php:59
+msgid "Video"
+msgstr "Видео"
+
+#: ../ef-options.php:60 ../functions.php:861
+msgid "Small"
+msgstr "Маленький"
+
+#: ../ef-options.php:61 ../ef-options.php:110
+msgid "Solid Color"
+msgstr "Сплошная заливка"
+
+#: ../ef-options.php:64
+msgid "Event Title"
+msgstr "Название события"
+
+#: ../ef-options.php:65
+msgid "Event Tagline"
+msgstr "Слоган события"
+
+#: ../ef-options.php:66
+msgid "Event City & Country"
+msgstr "Город и страна события"
+
+#: ../ef-options.php:67
+msgid "Event Location"
+msgstr "Место события"
+
+#: ../ef-options.php:68
+msgid "Event date, location and starting time"
+msgstr "Дата, место и время начала события"
+
+#: ../ef-options.php:69
+msgid "Header Image Down Arrow Anchor Link"
+msgstr "Верхний колонтитул Стрелка вниз Привязка ссылки"
+
+#: ../ef-options.php:70
+msgid "Event Title Color"
+msgstr "Цвет названия события"
+
+#: ../ef-options.php:71
+msgid "Event Tagline Color"
+msgstr "Цвет слогана события"
+
+#: ../ef-options.php:72
+msgid "Header Big Logo"
+msgstr "Верхний колонтитул большое лого"
+
+#: ../ef-options.php:73
+msgid "Header Gallery"
+msgstr "Галерея верхних колонтитулов"
+
+#: ../ef-options.php:74
+msgid "Header Video Url"
+msgstr "Верхний колонтитул ссылка на видео "
+
+#: ../ef-options.php:75
+msgid "Header Video Background Image"
+msgstr "Верхний колонтитул Видео Фоновое изображение"
+
+#: ../ef-options.php:76 ../ef-options.php:115
+msgid "Header Background Color"
+msgstr "Верхний колонтитул цвет фона"
+
+#: ../ef-options.php:79
+msgid "Facebook URL"
+msgstr "Ссылка Facebook"
+
+#: ../ef-options.php:80
+msgid "Twitter URL"
+msgstr "Ссылка Twitter"
+
+#: ../ef-options.php:81
+msgid "Show RSS?"
+msgstr "Показать RSS?"
+
+#: ../ef-options.php:83
+msgid "Google+ URL"
+msgstr "Ссылка Google+"
+
+#: ../ef-options.php:84
+msgid "Flickr URL"
+msgstr "Ссылка Flickr"
+
+#: ../ef-options.php:85
+msgid "Instagram URL"
+msgstr "Ссылка Instagram"
+
+#: ../ef-options.php:86
+msgid "Pinterest URL"
+msgstr "Ссылка Pinterest"
+
+#: ../ef-options.php:87
+msgid "LinkedIn URL"
+msgstr "Ссылка LinkedIn"
+
+#: ../ef-options.php:88
+msgid "AddThis PubID"
+msgstr "AddThis PubID"
+
+#: ../ef-options.php:89
+msgid "Youtube URL"
+msgstr "Ссылка Youtube"
+
+#: ../ef-options.php:90
+msgid "Skype User"
+msgstr "Пользователь Skype"
+
+#: ../ef-options.php:91
+msgid "Vimeo URL"
+msgstr "Ссылка Vimeo"
+
+#: ../ef-options.php:94
+msgid "Demo Data"
+msgstr "Демонстрационные данные"
+
+#: ../ef-options.php:94
+msgid "Import test data. Success message will follow."
+msgstr "Импорт тестовых данных. Появится сообщение об успешном выполнении."
+
+#: ../ef-options.php:109 ../components/metaboxes/schedule.php:34
+#: ../components/metaboxes/speakers.php:34
+msgid "Image"
+msgstr "Изображение"
+
+#: ../ef-options.php:111
+msgid "Headline"
+msgstr "Заголовок"
+
+#: ../ef-options.php:114
+msgid "Header Image"
+msgstr "Верхний колонтитул Изображение"
+
+#: ../ef-options.php:116
+msgid "Title Color"
+msgstr "Цвет названия"
+
+#: ../ef-options.php:122
+msgid "Layout"
+msgstr "Шаблон"
+
+#: ../ef-options.php:123
+msgid "Full Width"
+msgstr "Полная ширина"
+
+#: ../ef-options.php:124
+msgid "Rigth Sidebar"
+msgstr "Правая боковая панель"
+
+#: ../ef-options.php:136 ../components/metaboxes/schedule.php:19
+#: ../components/metaboxes/speakers.php:19
+msgid "Status"
+msgstr "Статус"
+
+#: ../ef-options.php:136
+msgid ""
+"<div class=\"update-nag\">Please note: This section is only visible if the "
+"Newsletter widget is activated.</div>"
+msgstr ""
+"<div class=\"update-nag\">Пожалуйста, обратите внимание: Этот раздел будет "
+"виден, если будет активирован элемент Информационное письмо.</div>"
+
+#: ../ef-options.php:137
+msgid "Visible"
+msgstr "Видно"
+
+#: ../ef-options.php:138
+msgid "Not visible"
+msgstr "Не видно"
+
+#: ../ef-options.php:140
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: ../ef-options.php:141
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: ../ef-options.php:142 ../components/metaboxes/schedule.php:26
+#: ../components/metaboxes/speakers.php:26
+msgid "Title"
+msgstr "Название"
+
+#: ../ef-options.php:143
+msgid "Text"
+msgstr "Текст"
+
+#: ../ef-options.php:144 ../components/metaboxes/schedule.php:45
+#: ../components/metaboxes/speakers.php:45
+#, fuzzy
+msgid "Button Text"
+msgstr "Кнопка Текст"
+
+#: ../ef-options.php:145
+msgid "Mailchimp Action Url"
+msgstr "Ссылка Mailchimp"
+
+#: ../ef-options.php:215
+msgid "General Site Options"
+msgstr "Опции всего сайта"
+
+#: ../ef-options.php:216
+msgid "Homepage Options"
+msgstr "Опции главной страницы"
+
+#: ../ef-options.php:217
+msgid "Media Gallery"
+msgstr "Медиа-галерея"
+
+#: ../ef-options.php:218
+msgid "Page Options"
+msgstr "Опции страницы"
+
+#: ../ef-options.php:219
+msgid "Blog Options"
+msgstr "Опции блога"
+
+#: ../ef-options.php:220
+msgid "Social Networks"
+msgstr "Социальные сети"
+
+#: ../ef-options.php:221
+msgid "Newsletter"
+msgstr "Информационное письмо"
+
+#: ../ef-options.php:222
+msgid "Misc"
+msgstr "Разное"
+
+#: ../exhibitors.php:52
+msgid "Alphabetically"
+msgstr "В алфавитном порядке"
+
+#: ../exhibitors.php:81 ../exhibitors.php:88
+msgid "ALL"
+msgstr "ВСЕ"
+
+#: ../exhibitors.php:86 ../components/taxonomies/exhibitor.php:16
+msgid "Categories"
+msgstr "Категории"
+
+#: ../exhibitors.php:102
+msgid "Enter your search"
+msgstr "Введите слова для поиска"
+
+#: ../exhibitors.php:118
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Результаты поиска для \"%s\" запроса"
+
+#: ../exhibitors.php:119
+msgid "CLEAR SEARCH"
+msgstr "ОЧИСТИТЬ ПОИСК"
+
+#: ../functions.php:84
+msgid "Navigation Menu"
+msgstr "Меню навигации"
+
+#: ../functions.php:130
+msgid "Seconds"
+msgstr "Секунды"
+
+#: ../functions.php:131
+msgid "Minutes"
+msgstr "Минуты"
+
+#: ../functions.php:132
+msgid "Hours"
+msgstr "Часы"
+
+#: ../functions.php:133
+msgid "Days"
+msgstr "Дни"
+
+#: ../functions.php:283
+msgid "Order"
+msgstr "Порядок"
+
+#: ../functions.php:306
+msgid " second"
+msgstr " секунда"
+
+#: ../functions.php:306 ../functions.php:309 ../functions.php:312
+#: ../functions.php:315 ../functions.php:318
+msgid " ago"
+msgstr " назад"
+
+#: ../functions.php:309
+msgid " minute"
+msgstr " минута"
+
+#: ../functions.php:312
+msgid " hour"
+msgstr " час"
+
+#: ../functions.php:315
+msgid " day"
+msgstr " день"
+
+#: ../functions.php:318
+msgid " week"
+msgstr " неделя"
+
+#: ../functions.php:319
+msgid "on "
+msgstr "в"
+
+#: ../functions.php:687
+msgid "Previous Post"
+msgstr "Предыдущая публикация"
+
+#: ../functions.php:687
+msgid "Next Post"
+msgstr "Следующая публикация"
+
+#: ../functions.php:855
+msgid "Type"
+msgstr "Тип"
+
+#: ../functions.php:859
+msgid "Large"
+msgstr "Большой"
+
+#: ../functions.php:860
+msgid "Medium"
+msgstr "Средний"
+
+#: ../functions.php:954
+msgid "says:"
+msgstr "говорит"
+
+#: ../functions.php:955
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: ../functions.php:958
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../functions.php:977 ../single-session.php:102 ../single-speaker.php:138
+#: ../components/templates/pages/single-blog-full-width.php:35
+#: ../components/templates/pages/single-blog-right-sidebar.php:30
+msgid "PREV"
+msgstr "НАЗАД"
+
+#: ../functions.php:978 ../single-session.php:103 ../single-speaker.php:139
+#: ../components/templates/pages/single-blog-full-width.php:36
+#: ../components/templates/pages/single-blog-right-sidebar.php:31
+msgid "NEXT"
+msgstr "ВПЕРЕД"
+
+#: ../functions.php:1070
+msgid "Recommended size: "
+msgstr "Рекомендуемый размер:"
+
+#: ../header-social.php:25 ../instagram.php:14 ../twitter.php:16
+msgid "Back to home"
+msgstr "Вернуться на главную"
+
+#: ../schedule.php:61
+msgid "Filter by track"
+msgstr "Фильтровать по треку"
+
+#: ../schedule.php:63 ../schedule.php:74 ../schedule.php:85
+msgid "All"
+msgstr "Все"
+
+#: ../schedule.php:72
+msgid "Filter by location"
+msgstr "Фильтровать по месту"
+
+#: ../schedule.php:83
+msgid "Filter by days"
+msgstr "Фильтровать по дням"
+
+#: ../search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: ../single-session.php:18
+msgid "All Schedule"
+msgstr "Весь график"
+
+#: ../single-session.php:35
+msgid "Register to  the session"
+msgstr "Зарегистрироваться в сессии"
+
+#: ../single-session.php:56
+#: ../components/templates/pages/single-blog-full-width.php:23
+#: ../components/templates/pages/single-blog-right-sidebar.php:25
+msgid "Bookmark and Share"
+msgstr "Отметить и поделиться"
+
+#: ../single-session.php:64
+msgid "Speakers on stage"
+msgstr "Выступающие на сцене"
+
+#: ../single-speaker.php:28
+msgid "All Speakers"
+msgstr "Все выступающие"
+
+#: ../single-speaker.php:42
+msgid "Featured"
+msgstr "Избранные"
+
+#: ../single-speaker.php:52
+msgid "My Sessions"
+msgstr "Мои сессии"
+
+#: ../single-speaker.php:54 ../single-speaker.php:125
+msgid "View full schedule"
+msgstr "Просмотреть полный график"
+
+#: ../speakers.php:50 ../components/templates/pages/blog-full-width.php:25
+#: ../components/templates/pages/blog-full-width.php:54
+#: ../components/templates/pages/blog-right-sidebar.php:18
+#: ../components/templates/pages/blog-right-sidebar.php:39
+msgid "Read more"
+msgstr "Читать далее"
+
+#: ../twitter.php:18
+msgid "Tweet"
+msgstr "Твит"
+
+#: ../components/cpts/exhibitor.php:5 ../components/cpts/exhibitor.php:16
+msgid "Exhibitors"
+msgstr "Экспоненты"
+
+#: ../components/cpts/exhibitor.php:6
+msgid "Exhibitor"
+msgstr "Экспонент"
+
+#: ../components/cpts/exhibitor.php:7
+msgid "Add New"
+msgstr "Добавить нового"
+
+#: ../components/cpts/exhibitor.php:8
+msgid "Add New Exhibitor"
+msgstr "Добавить нового экспонента"
+
+#: ../components/cpts/exhibitor.php:9
+msgid "Edit Exhibitor"
+msgstr "Редактировать экспонента"
+
+#: ../components/cpts/exhibitor.php:10
+msgid "New Exhibitor"
+msgstr "Новый экспонент"
+
+#: ../components/cpts/exhibitor.php:11
+msgid "All Exhibitors"
+msgstr "Все экспоненты"
+
+#: ../components/cpts/exhibitor.php:12
+msgid "View Exhibitor"
+msgstr "Просмотреть экспонента"
+
+#: ../components/cpts/exhibitor.php:13
+msgid "Search Exhibitors"
+msgstr "Поиск экспонентов"
+
+#: ../components/cpts/exhibitor.php:14
+msgid "No Exhibitors found"
+msgstr "Экспоненты не найдены"
+
+#: ../components/cpts/exhibitor.php:15
+msgid "No Exhibitors found in trash"
+msgstr "В корзине экспоненты не найдены"
+
+#: ../components/cpts/exhibitor.php:50
+#, php-format
+msgid "Exhibitor updated. <a href=\"%s\">View Exhibitor</a>"
+msgstr "Экспонент обновлен. <a href=\"%s\">Просмотр экспонента</a>"
+
+#: ../components/cpts/exhibitor.php:51
+msgid "Custom field updated."
+msgstr "Пользовательское поле обновлено."
+
+#: ../components/cpts/exhibitor.php:52
+msgid "Custom field deleted."
+msgstr "Пользовательское поле удалено."
+
+#: ../components/cpts/exhibitor.php:53
+msgid "Exhibitor updated."
+msgstr "Экспонент обновлен."
+
+#: ../components/cpts/exhibitor.php:55
+#, php-format
+msgid "Exhibitor restored to revision from %s"
+msgstr "Экспонент восстановлен для пересмотра из %s"
+
+#: ../components/cpts/exhibitor.php:56
+#, php-format
+msgid "Exhibitor published. <a href=\"%s\">View Exhibitor</a>"
+msgstr "Экспонент публикован. <a href=\"%s\">Просмотр экспонента</a>"
+
+#: ../components/cpts/exhibitor.php:57
+msgid "Exhibitor saved."
+msgstr "Экспонент сохранен."
+
+#: ../components/cpts/exhibitor.php:58
+#, php-format
+msgid ""
+"Exhibitor submitted. <a target=\"_blank\" href=\"%s\">Preview Exhibitor</a>"
+msgstr ""
+"Экспонент отправлен. <a target=\"_blank\" href=\"%s\">Предварительный "
+"просмотр экспонента</a>"
+
+#: ../components/cpts/exhibitor.php:59
+#, php-format
+msgid ""
+"Exhibitor scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Exhibitor</a>"
+msgstr ""
+"Экспонент запланирован на: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Предварительный просмотр экспонента</a>"
+
+#: ../components/cpts/exhibitor.php:61
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ../components/cpts/exhibitor.php:62
+#, php-format
+msgid ""
+"Exhibitor draft updated. <a target=\"_blank\" href=\"%s\">Preview Exhibitor</"
+"a>"
+msgstr ""
+"Черновик экспонента обновлен. <a target=\"_blank\" href=\"%s"
+"\">Предварительный просмотр экспонента</a>"
+
+#: ../components/metaboxes/exhibitor.php:5
+msgid "Exhibitor Details"
+msgstr "Информация об экспоненте"
+
+#: ../components/metaboxes/exhibitor.php:17
+#: ../components/metaboxes/schedule.php:30
+#: ../components/metaboxes/speakers.php:30
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: ../components/metaboxes/exhibitor.php:21
+msgid "Top Detail"
+msgstr "Главная информация"
+
+#: ../components/metaboxes/exhibitor.php:25
+msgid "Detail 1"
+msgstr "Информация 1"
+
+#: ../components/metaboxes/exhibitor.php:29
+msgid "Detail 2"
+msgstr "Информация 2"
+
+#: ../components/metaboxes/exhibitor.php:33
+msgid "Detail 3"
+msgstr "Информация 3"
+
+#: ../components/metaboxes/exhibitor.php:36
+msgid "Detail 4"
+msgstr "Информация 3"
+
+#: ../components/metaboxes/schedule.php:6
+#: ../components/metaboxes/speakers.php:6
+msgid "Call To Action"
+msgstr "Призыв к действию"
+
+#: ../components/metaboxes/schedule.php:21
+#: ../components/metaboxes/speakers.php:21
+msgid "Disabled"
+msgstr "Отключено"
+
+#: ../components/metaboxes/schedule.php:22
+#: ../components/metaboxes/speakers.php:22
+msgid "Enabled"
+msgstr "Включено"
+
+#: ../components/metaboxes/schedule.php:41
+#: ../components/metaboxes/speakers.php:41
+msgid "Remove"
+msgstr "Удалить"
+
+#: ../components/metaboxes/schedule.php:49
+#: ../components/metaboxes/speakers.php:49
+#, fuzzy
+msgid "Button URL"
+msgstr "Кнопка Ссылка"
+
+#: ../components/taxonomies/exhibitor.php:6
+#: ../components/taxonomies/exhibitor.php:7
+msgid "Exhibitor Category"
+msgstr "Категория экспонента"
+
+#: ../components/taxonomies/exhibitor.php:8
+msgid "Search Exhibitor Categories"
+msgstr "Поиск категорий экспонентов"
+
+#: ../components/taxonomies/exhibitor.php:9
+msgid "All Exhibitor Categories"
+msgstr "Все категории экспонентов"
+
+#: ../components/taxonomies/exhibitor.php:10
+msgid "Parent Exhibitor Category"
+msgstr "Родительская категория экспонента"
+
+#: ../components/taxonomies/exhibitor.php:11
+msgid "Parent Exhibitor Category:"
+msgstr "Родительская категория экспонента:"
+
+#: ../components/taxonomies/exhibitor.php:12
+msgid "Edit Exhibitor Category"
+msgstr "Редактировать категорию экспонента"
+
+#: ../components/taxonomies/exhibitor.php:13
+msgid "Update Exhibitor Category"
+msgstr "Обновить категорию экспонента"
+
+#: ../components/taxonomies/exhibitor.php:14
+msgid "Add New Exhibitor Category"
+msgstr "Добавить новую категорию экспонента"
+
+#: ../components/taxonomies/exhibitor.php:15
+msgid "New Exhibitor Category"
+msgstr "Новая категория экспонента"
+
+#: ../components/taxonomies/exhibitor.php:28
+msgid "Color"
+msgstr "Цвет"
+
+#: ../components/templates/pages/blog-full-width.php:65
+#: ../components/templates/pages/blog-right-sidebar.php:52
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: ../components/templates/widgets/ef_contact.php:17
+msgid "Message (Maximum 500 characters)"
+msgstr "Сообщение (максимум 500 символов)"
+
+#: ../components/templates/widgets/ef_contact.php:25
+msgid "Refresh Captcha Code"
+msgstr "Обновить контрольное изображение"
+
+#: ../components/templates/widgets/ef_contact.php:33
+msgid "Enter the words above"
+msgstr "Введите слова, показанные выше"
+
+#: ../components/templates/widgets/ef_contact.php:61
+msgid "Your email"
+msgstr "Ваш email"
+
+#: ../components/templates/widgets/ef_facebook_rsvp.php:19
+msgid "Yes"
+msgstr "Да"
+
+#: ../components/templates/widgets/ef_facebook_rsvp.php:29
+msgid "Maybe"
+msgstr "Возможно"
+
+#: ../components/templates/widgets/ef_facebook_rsvp.php:39
+msgid "No"
+msgstr "Нет"
+
+#: ../components/templates/widgets/ef_schedule.php:57
+msgid "ON STAGE"
+msgstr "НА СЦЕНЕ"
+
+#: ../components/widgets/widget-exhibitors.php:33
+msgid ""
+"Shows a section displaying exhibitors created in the Exhibitors custom post "
+"type."
+msgstr ""
+"Показывает раздел, отображающий экспонентов, созданных в настраиваемом типе "
+"публикаций Экспонентов."
+
+#: ../components/widgets/widget-exhibitors.php:36
+msgid " Exhibitor List"
+msgstr "Список экспонентов:"
+
+#: ../components/widgets/widget-exhibitors.php:139
+msgid "Title:"
+msgstr "Название:"
+
+#: ../components/widgets/widget-exhibitors.php:142
+msgid "Subtitle:"
+msgstr "Подзаголовок:"
+
+#: ../components/widgets/widget-exhibitors.php:145
+msgid "\"View profile\" Text:"
+msgstr "\"Просмотр профиля\" Текст:"
+
+#: ../components/widgets/widget-exhibitors.php:148
+msgid "\"View all exhibitors\" Text:"
+msgstr "\"Просмотр всех экспонентов\" Текст:"
+
+#: ../components/widgets/widget-exhibitors.php:151
+msgid "Exhibitors:"
+msgstr "Экспоненты"
+
+#: ../components/widgets/widget-exhibitors.php:153
+msgid "Select and order exhibitors to show in this section"
+msgstr ""
+"Выберите и расположите по порядку экспонентов для показа в этом разделе"
+
+#: ../woocommerce/loop/add-to-cart.php:15
+#: ../woocommerce/loop/add-to-cart.php:29
+#: ../woocommerce/loop/add-to-cart.php:33
+#: ../woocommerce/loop/add-to-cart.php:37
+#: ../woocommerce/loop/add-to-cart.php:46
+msgid "Read More"
+msgstr "Читать далее"
+
+#: ../woocommerce/loop/add-to-cart.php:42 ../woocommerce/loop/loop-end.php:13
+msgid "Add to cart"
+msgstr "Добавить в корзину"

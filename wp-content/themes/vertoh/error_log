@@ -1,0 +1,1 @@
+[01-Jan-2015 14:04:27 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/eventman/showthemes.com/vertoh-demo/wp-content/themes/vertoh/index.php on line 3

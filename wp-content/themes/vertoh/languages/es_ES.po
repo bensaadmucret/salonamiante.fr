@@ -1,0 +1,849 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vertoh\n"
+"POT-Creation-Date: 2014-11-28 16:17+0100\n"
+"PO-Revision-Date: 2015-01-12 19:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: Showthemes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:8
+msgid "404 Not Found"
+msgstr "Error 404: no se encontró la página"
+
+#: ../404.php:9
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Lo sentimos, pero no se ha encontrado la página que solicitaste. Quizá una "
+"búsqueda pueda ayudarte."
+
+#: ../archive.php:10 ../category.php:10 ../exhibitors.php:41 ../page.php:11
+#: ../schedule.php:25 ../search.php:10 ../single-exhibitor.php:13
+#: ../single-session.php:16 ../single-speaker.php:26 ../single.php:12
+#: ../speakers.php:19
+msgid "Home"
+msgstr "Inicio"
+
+#: ../archive.php:14
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Archivo diario: <span>%s</span>"
+
+#: ../archive.php:16
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Archivo mensual: <span>%s</span>"
+
+#: ../archive.php:18
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Archivo anual: <span>%s</span>"
+
+#: ../archive.php:20
+#, php-format
+msgid "All posts by: %s"
+msgstr "Todos los posts publicados por: %s"
+
+#: ../archive.php:22
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archivo de etiquetas: %s"
+
+#: ../archive.php:24
+msgid "Archives"
+msgstr "Archivo"
+
+#: ../comments.php:24 ../components/templates/widgets/ef_contact.php:9
+msgid "First Name and Last Name"
+msgstr "Nombre y apellido"
+
+#: ../comments.php:28 ../ef-options.php:82
+#: ../components/templates/widgets/ef_contact.php:13
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: ../comments.php:32
+msgid "Website"
+msgstr "Página web"
+
+#: ../comments.php:37
+msgid "Comment"
+msgstr "Comentario"
+
+#: ../comments.php:55
+msgid "Submit a comment"
+msgstr "Enviar un comentario"
+
+#: ../comments.php:56
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+"Tu dirección de correo electrónico no se publicará. Los campos obligatorios "
+"están señalados *"
+
+#: ../comments.php:62
+msgid "Leave comment"
+msgstr "Dejar un comentario"
+
+#: ../comments.php:66
+#, php-format
+msgid "There are %s comments"
+msgstr "Hay %s comentarios"
+
+#: ../comments.php:75
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: ../ef-options.php:41
+msgid "Logo"
+msgstr "Logo"
+
+#: ../ef-options.php:42
+msgid "Header Menu Icon Color"
+msgstr "Color del icono del menú de encabezado"
+
+#: ../ef-options.php:43
+msgid "Footer Copyright Content"
+msgstr "Contenido con copyright del pie de página"
+
+#: ../ef-options.php:49 ../ef-options.php:100
+msgid "Top Bar"
+msgstr "Barra superior"
+
+#: ../ef-options.php:51 ../ef-options.php:102
+msgid "Transparent"
+msgstr "Transparente"
+
+#: ../ef-options.php:52 ../ef-options.php:103
+msgid "White"
+msgstr "Blanco"
+
+#: ../ef-options.php:56 ../ef-options.php:107
+msgid "Header Type"
+msgstr "Tipo de encabezado"
+
+#: ../ef-options.php:58
+msgid "Images Slider"
+msgstr "Slider de imágenes"
+
+#: ../ef-options.php:59
+msgid "Video"
+msgstr "Vídeo"
+
+#: ../ef-options.php:60 ../functions.php:861
+msgid "Small"
+msgstr "Pequeño"
+
+#: ../ef-options.php:61 ../ef-options.php:110
+msgid "Solid Color"
+msgstr "Color sólido"
+
+#: ../ef-options.php:64
+msgid "Event Title"
+msgstr "Título del evento"
+
+#: ../ef-options.php:65
+msgid "Event Tagline"
+msgstr "Eslógan del evento"
+
+#: ../ef-options.php:66
+msgid "Event City & Country"
+msgstr "Ciudad y país del evento"
+
+#: ../ef-options.php:67
+msgid "Event Location"
+msgstr "Lugar del evento"
+
+#: ../ef-options.php:68
+msgid "Event date, location and starting time"
+msgstr "Fecha, lugar y hora de inicio del evento"
+
+#: ../ef-options.php:69
+msgid "Header Image Down Arrow Anchor Link"
+msgstr "Imagen de encabezado Flecha de bajada Link fijo"
+
+#: ../ef-options.php:70
+msgid "Event Title Color"
+msgstr "Color del título del evento"
+
+#: ../ef-options.php:71
+msgid "Event Tagline Color"
+msgstr "Color del eslógan del evento"
+
+#: ../ef-options.php:72
+msgid "Header Big Logo"
+msgstr "Logo grande del encabezado"
+
+#: ../ef-options.php:73
+msgid "Header Gallery"
+msgstr "Galería del encabezado"
+
+#: ../ef-options.php:74
+msgid "Header Video Url"
+msgstr "Url del vídeo del encabezado"
+
+#: ../ef-options.php:75
+msgid "Header Video Background Image"
+msgstr "Imagen de fondo del vídeo del encabezado"
+
+#: ../ef-options.php:76 ../ef-options.php:115
+msgid "Header Background Color"
+msgstr "Color de fondo del encabezado"
+
+#: ../ef-options.php:79
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: ../ef-options.php:80
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: ../ef-options.php:81
+msgid "Show RSS?"
+msgstr "¿Mostrar RSS?"
+
+#: ../ef-options.php:83
+msgid "Google+ URL"
+msgstr "URL de Google+"
+
+#: ../ef-options.php:84
+msgid "Flickr URL"
+msgstr "URL de Flickr"
+
+#: ../ef-options.php:85
+msgid "Instagram URL"
+msgstr "URL de Instagram"
+
+#: ../ef-options.php:86
+msgid "Pinterest URL"
+msgstr "URL de Pinterest"
+
+#: ../ef-options.php:87
+msgid "LinkedIn URL"
+msgstr "URL de LinkedIn"
+
+#: ../ef-options.php:88
+msgid "AddThis PubID"
+msgstr "PubID de AddThis"
+
+#: ../ef-options.php:89
+msgid "Youtube URL"
+msgstr "URL de Youtube"
+
+#: ../ef-options.php:90
+msgid "Skype User"
+msgstr "Usuario de Skype"
+
+#: ../ef-options.php:91
+msgid "Vimeo URL"
+msgstr "URL de Vimeo"
+
+#: ../ef-options.php:94
+msgid "Demo Data"
+msgstr "Datos de la demo"
+
+#: ../ef-options.php:94
+msgid "Import test data. Success message will follow."
+msgstr ""
+"Importar datos del test. Después aparecerá un mensaje que avisará del éxito "
+"de la operación."
+
+#: ../ef-options.php:109 ../components/metaboxes/schedule.php:34
+#: ../components/metaboxes/speakers.php:34
+msgid "Image"
+msgstr "Imagen"
+
+#: ../ef-options.php:111
+msgid "Headline"
+msgstr "Titular"
+
+#: ../ef-options.php:114
+msgid "Header Image"
+msgstr "Imagen del encabezado"
+
+#: ../ef-options.php:116
+msgid "Title Color"
+msgstr "Color del título"
+
+#: ../ef-options.php:122
+msgid "Layout"
+msgstr "Disposición"
+
+#: ../ef-options.php:123
+msgid "Full Width"
+msgstr "Anchura completa"
+
+#: ../ef-options.php:124
+msgid "Rigth Sidebar"
+msgstr "Barra lateral derecha"
+
+#: ../ef-options.php:136 ../components/metaboxes/schedule.php:19
+#: ../components/metaboxes/speakers.php:19
+msgid "Status"
+msgstr "Estado"
+
+#: ../ef-options.php:136
+msgid ""
+"<div class=\"update-nag\">Please note: This section is only visible if the "
+"Newsletter widget is activated.</div>"
+msgstr ""
+"<div class=\"update-nag\">Por favor, ten en cuenta que esta sección sólo "
+"será visible si el widget de la Newsletter está activado.</div>"
+
+#: ../ef-options.php:137
+msgid "Visible"
+msgstr "Visible"
+
+#: ../ef-options.php:138
+msgid "Not visible"
+msgstr "No visible"
+
+#: ../ef-options.php:140
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: ../ef-options.php:141
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: ../ef-options.php:142 ../components/metaboxes/schedule.php:26
+#: ../components/metaboxes/speakers.php:26
+msgid "Title"
+msgstr "Título"
+
+#: ../ef-options.php:143
+msgid "Text"
+msgstr "Texto"
+
+#: ../ef-options.php:144 ../components/metaboxes/schedule.php:45
+#: ../components/metaboxes/speakers.php:45
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: ../ef-options.php:145
+msgid "Mailchimp Action Url"
+msgstr "Url de acción de Mailchimp"
+
+#: ../ef-options.php:215
+msgid "General Site Options"
+msgstr "Opciones generales del sitio"
+
+#: ../ef-options.php:216
+msgid "Homepage Options"
+msgstr "Opciones de la página de inicio"
+
+#: ../ef-options.php:217
+msgid "Media Gallery"
+msgstr "Galería multimedia"
+
+#: ../ef-options.php:218
+msgid "Page Options"
+msgstr "Opciones de la página"
+
+#: ../ef-options.php:219
+msgid "Blog Options"
+msgstr "Opciones del blog"
+
+#: ../ef-options.php:220
+msgid "Social Networks"
+msgstr "Redes sociales"
+
+#: ../ef-options.php:221
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: ../ef-options.php:222
+msgid "Misc"
+msgstr "Miscelánea"
+
+#: ../exhibitors.php:52
+msgid "Alphabetically"
+msgstr "Alfabéticamente"
+
+#: ../exhibitors.php:81 ../exhibitors.php:88
+msgid "ALL"
+msgstr "TODO"
+
+#: ../exhibitors.php:86 ../components/taxonomies/exhibitor.php:16
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../exhibitors.php:102
+msgid "Enter your search"
+msgstr "Introduce tu búsqueda"
+
+#: ../exhibitors.php:118
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Resultados de la búsqueda para  la consulta \"%s\""
+
+#: ../exhibitors.php:119
+msgid "CLEAR SEARCH"
+msgstr "BORRAR BÚSQUEDA"
+
+#: ../functions.php:84
+msgid "Navigation Menu"
+msgstr "Menú de navegación"
+
+#: ../functions.php:130
+msgid "Seconds"
+msgstr "Segundos"
+
+#: ../functions.php:131
+msgid "Minutes"
+msgstr "Minutos"
+
+#: ../functions.php:132
+msgid "Hours"
+msgstr "Horas"
+
+#: ../functions.php:133
+msgid "Days"
+msgstr "Días"
+
+#: ../functions.php:283
+msgid "Order"
+msgstr "Orden"
+
+#: ../functions.php:306
+msgid " second"
+msgstr "segundo"
+
+#: ../functions.php:306 ../functions.php:309 ../functions.php:312
+#: ../functions.php:315 ../functions.php:318
+msgid " ago"
+msgstr "hace"
+
+#: ../functions.php:309
+msgid " minute"
+msgstr "minuto"
+
+#: ../functions.php:312
+msgid " hour"
+msgstr "hora"
+
+#: ../functions.php:315
+msgid " day"
+msgstr "día"
+
+#: ../functions.php:318
+msgid " week"
+msgstr "semana"
+
+#: ../functions.php:319
+msgid "on "
+msgstr "en"
+
+#: ../functions.php:687
+msgid "Previous Post"
+msgstr "Post anterior"
+
+#: ../functions.php:687
+msgid "Next Post"
+msgstr "Siguiente post"
+
+#: ../functions.php:855
+msgid "Type"
+msgstr "Tipo"
+
+#: ../functions.php:859
+msgid "Large"
+msgstr "Grande"
+
+#: ../functions.php:860
+msgid "Medium"
+msgstr "Mediano"
+
+#: ../functions.php:954
+msgid "says:"
+msgstr "dice:"
+
+#: ../functions.php:955
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: ../functions.php:958
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario debe pasar el filtro de moderación."
+
+#: ../functions.php:977 ../single-session.php:102 ../single-speaker.php:138
+#: ../components/templates/pages/single-blog-full-width.php:35
+#: ../components/templates/pages/single-blog-right-sidebar.php:30
+msgid "PREV"
+msgstr "ANT"
+
+#: ../functions.php:978 ../single-session.php:103 ../single-speaker.php:139
+#: ../components/templates/pages/single-blog-full-width.php:36
+#: ../components/templates/pages/single-blog-right-sidebar.php:31
+msgid "NEXT"
+msgstr "SIG"
+
+#: ../functions.php:1070
+msgid "Recommended size: "
+msgstr "Tamaño recomendado:"
+
+#: ../header-social.php:25 ../instagram.php:14 ../twitter.php:16
+msgid "Back to home"
+msgstr "Volver a inicio"
+
+#: ../schedule.php:61
+msgid "Filter by track"
+msgstr "Filtrar por pista"
+
+#: ../schedule.php:63 ../schedule.php:74 ../schedule.php:85
+msgid "All"
+msgstr "Todos"
+
+#: ../schedule.php:72
+msgid "Filter by location"
+msgstr "Filtrar por ubicación"
+
+#: ../schedule.php:83
+msgid "Filter by days"
+msgstr "Filtrar por días"
+
+#: ../search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda para: %s"
+
+#: ../single-session.php:18
+msgid "All Schedule"
+msgstr "Toda la programación"
+
+#: ../single-session.php:35
+msgid "Register to  the session"
+msgstr "Registrarse en la sesión"
+
+#: ../single-session.php:56
+#: ../components/templates/pages/single-blog-full-width.php:23
+#: ../components/templates/pages/single-blog-right-sidebar.php:25
+msgid "Bookmark and Share"
+msgstr "Añadir a favoritos y compartir"
+
+#: ../single-session.php:64
+msgid "Speakers on stage"
+msgstr "Ponentes en el escenario"
+
+#: ../single-speaker.php:28
+msgid "All Speakers"
+msgstr "Todos los ponentes"
+
+#: ../single-speaker.php:42
+msgid "Featured"
+msgstr "Destacados"
+
+#: ../single-speaker.php:52
+msgid "My Sessions"
+msgstr "Mis sesiones"
+
+#: ../single-speaker.php:54 ../single-speaker.php:125
+msgid "View full schedule"
+msgstr "Ver programación completa"
+
+#: ../speakers.php:50 ../components/templates/pages/blog-full-width.php:25
+#: ../components/templates/pages/blog-full-width.php:54
+#: ../components/templates/pages/blog-right-sidebar.php:18
+#: ../components/templates/pages/blog-right-sidebar.php:39
+msgid "Read more"
+msgstr "Leer más"
+
+#: ../twitter.php:18
+msgid "Tweet"
+msgstr "Tuitear"
+
+#: ../components/cpts/exhibitor.php:5 ../components/cpts/exhibitor.php:16
+msgid "Exhibitors"
+msgstr "Expositores"
+
+#: ../components/cpts/exhibitor.php:6
+msgid "Exhibitor"
+msgstr "Expositor"
+
+#: ../components/cpts/exhibitor.php:7
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: ../components/cpts/exhibitor.php:8
+msgid "Add New Exhibitor"
+msgstr "Añadir nuevo expositor"
+
+#: ../components/cpts/exhibitor.php:9
+msgid "Edit Exhibitor"
+msgstr "Editar expositor"
+
+#: ../components/cpts/exhibitor.php:10
+msgid "New Exhibitor"
+msgstr "Nuevo expositor"
+
+#: ../components/cpts/exhibitor.php:11
+msgid "All Exhibitors"
+msgstr "Todos los expositores"
+
+#: ../components/cpts/exhibitor.php:12
+msgid "View Exhibitor"
+msgstr "Ver expositor"
+
+#: ../components/cpts/exhibitor.php:13
+msgid "Search Exhibitors"
+msgstr "Buscar expositores"
+
+#: ../components/cpts/exhibitor.php:14
+msgid "No Exhibitors found"
+msgstr "No se encontraron expositores"
+
+#: ../components/cpts/exhibitor.php:15
+msgid "No Exhibitors found in trash"
+msgstr "No se encontraron expositores en la papelera"
+
+#: ../components/cpts/exhibitor.php:50
+#, php-format
+msgid "Exhibitor updated. <a href=\"%s\">View Exhibitor</a>"
+msgstr "Expositor actualizado. <a href=\"%s\">Ver expositor</a>"
+
+#: ../components/cpts/exhibitor.php:51
+msgid "Custom field updated."
+msgstr "Campo personalizado actualizado."
+
+#: ../components/cpts/exhibitor.php:52
+msgid "Custom field deleted."
+msgstr "Campo personalizado eliminado."
+
+#: ../components/cpts/exhibitor.php:53
+msgid "Exhibitor updated."
+msgstr "Expositor actualizado."
+
+#: ../components/cpts/exhibitor.php:55
+#, php-format
+msgid "Exhibitor restored to revision from %s"
+msgstr "Se restauró el expositor para su revisión desde %s"
+
+#: ../components/cpts/exhibitor.php:56
+#, php-format
+msgid "Exhibitor published. <a href=\"%s\">View Exhibitor</a>"
+msgstr "Expositor publicado. <a href=\"%s\">Ver expositor </a>"
+
+#: ../components/cpts/exhibitor.php:57
+msgid "Exhibitor saved."
+msgstr "Expositor guardado."
+
+#: ../components/cpts/exhibitor.php:58
+#, php-format
+msgid ""
+"Exhibitor submitted. <a target=\"_blank\" href=\"%s\">Preview Exhibitor</a>"
+msgstr ""
+"Expositor enviado. <a target=\"_blank\" href=\"%s\">Previsualizar expositor</"
+"a>"
+
+#: ../components/cpts/exhibitor.php:59
+#, php-format
+msgid ""
+"Exhibitor scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Exhibitor</a>"
+msgstr ""
+"Expositor programado para: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Previsualizar expositor </a>"
+
+#: ../components/cpts/exhibitor.php:61
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ../components/cpts/exhibitor.php:62
+#, php-format
+msgid ""
+"Exhibitor draft updated. <a target=\"_blank\" href=\"%s\">Preview Exhibitor</"
+"a>"
+msgstr ""
+"Borrador del expositor actualizado. <a target=\"_blank\" href=\"%s"
+"\">Previsualizar expositor </a>"
+
+#: ../components/metaboxes/exhibitor.php:5
+msgid "Exhibitor Details"
+msgstr "Detalles del expositor"
+
+#: ../components/metaboxes/exhibitor.php:17
+#: ../components/metaboxes/schedule.php:30
+#: ../components/metaboxes/speakers.php:30
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: ../components/metaboxes/exhibitor.php:21
+msgid "Top Detail"
+msgstr "Detalle superior"
+
+#: ../components/metaboxes/exhibitor.php:25
+msgid "Detail 1"
+msgstr "Detalle 1"
+
+#: ../components/metaboxes/exhibitor.php:29
+msgid "Detail 2"
+msgstr "Detalle 2"
+
+#: ../components/metaboxes/exhibitor.php:33
+msgid "Detail 3"
+msgstr "Detalle 3"
+
+#: ../components/metaboxes/exhibitor.php:36
+msgid "Detail 4"
+msgstr "Detalle 4"
+
+#: ../components/metaboxes/schedule.php:6
+#: ../components/metaboxes/speakers.php:6
+msgid "Call To Action"
+msgstr "Llamada a la acción"
+
+#: ../components/metaboxes/schedule.php:21
+#: ../components/metaboxes/speakers.php:21
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+#: ../components/metaboxes/schedule.php:22
+#: ../components/metaboxes/speakers.php:22
+msgid "Enabled"
+msgstr "Habilitado"
+
+#: ../components/metaboxes/schedule.php:41
+#: ../components/metaboxes/speakers.php:41
+msgid "Remove"
+msgstr "Eliminar"
+
+#: ../components/metaboxes/schedule.php:49
+#: ../components/metaboxes/speakers.php:49
+msgid "Button URL"
+msgstr "URL del botón"
+
+#: ../components/taxonomies/exhibitor.php:6
+#: ../components/taxonomies/exhibitor.php:7
+msgid "Exhibitor Category"
+msgstr "Categoría del expositor"
+
+#: ../components/taxonomies/exhibitor.php:8
+msgid "Search Exhibitor Categories"
+msgstr "Buscar categorías del expositor"
+
+#: ../components/taxonomies/exhibitor.php:9
+msgid "All Exhibitor Categories"
+msgstr "Todas las categorías del expositor"
+
+#: ../components/taxonomies/exhibitor.php:10
+msgid "Parent Exhibitor Category"
+msgstr "Categoría del expositor relacionada"
+
+#: ../components/taxonomies/exhibitor.php:11
+msgid "Parent Exhibitor Category:"
+msgstr "Categoría del expositor relacionada:"
+
+#: ../components/taxonomies/exhibitor.php:12
+msgid "Edit Exhibitor Category"
+msgstr "Editar categoría del expositor"
+
+#: ../components/taxonomies/exhibitor.php:13
+msgid "Update Exhibitor Category"
+msgstr "Actualizra categoría del expositor"
+
+#: ../components/taxonomies/exhibitor.php:14
+msgid "Add New Exhibitor Category"
+msgstr "Añadir nueva categoría del expositor"
+
+#: ../components/taxonomies/exhibitor.php:15
+msgid "New Exhibitor Category"
+msgstr "Nueva categoría del expositor "
+
+#: ../components/taxonomies/exhibitor.php:28
+msgid "Color"
+msgstr "Color"
+
+#: ../components/templates/pages/blog-full-width.php:65
+#: ../components/templates/pages/blog-right-sidebar.php:52
+msgid "Nothing Found"
+msgstr "No se encontraron resultados"
+
+#: ../components/templates/widgets/ef_contact.php:17
+msgid "Message (Maximum 500 characters)"
+msgstr "Mensaje (máximo de 500 caracteres)"
+
+#: ../components/templates/widgets/ef_contact.php:25
+msgid "Refresh Captcha Code"
+msgstr "Refrescar código Captcha"
+
+#: ../components/templates/widgets/ef_contact.php:33
+msgid "Enter the words above"
+msgstr "Introduce las palabras de arriba"
+
+#: ../components/templates/widgets/ef_contact.php:61
+msgid "Your email"
+msgstr "Tu correo electrónico"
+
+#: ../components/templates/widgets/ef_facebook_rsvp.php:19
+msgid "Yes"
+msgstr "Sí"
+
+#: ../components/templates/widgets/ef_facebook_rsvp.php:29
+msgid "Maybe"
+msgstr "Quizá"
+
+#: ../components/templates/widgets/ef_facebook_rsvp.php:39
+msgid "No"
+msgstr "No"
+
+#: ../components/templates/widgets/ef_schedule.php:57
+msgid "ON STAGE"
+msgstr "EN EL ESCENARIO"
+
+#: ../components/widgets/widget-exhibitors.php:33
+msgid ""
+"Shows a section displaying exhibitors created in the Exhibitors custom post "
+"type."
+msgstr ""
+"Muestra una sección en la que se encuentran los expositores creados en el "
+"tipo de post personalizado para expositores."
+
+#: ../components/widgets/widget-exhibitors.php:36
+msgid " Exhibitor List"
+msgstr "Lista de expositores"
+
+#: ../components/widgets/widget-exhibitors.php:139
+msgid "Title:"
+msgstr "Título:"
+
+#: ../components/widgets/widget-exhibitors.php:142
+msgid "Subtitle:"
+msgstr "Subtítulo:"
+
+#: ../components/widgets/widget-exhibitors.php:145
+msgid "\"View profile\" Text:"
+msgstr "\"Ver perfil\" Texto:"
+
+#: ../components/widgets/widget-exhibitors.php:148
+msgid "\"View all exhibitors\" Text:"
+msgstr "\"Ver todos los expositores\" Texto:"
+
+#: ../components/widgets/widget-exhibitors.php:151
+msgid "Exhibitors:"
+msgstr "Expositores:"
+
+#: ../components/widgets/widget-exhibitors.php:153
+msgid "Select and order exhibitors to show in this section"
+msgstr ""
+"Selecciona y ordena los expositores que quieras mostrar en esta sección"
+
+#: ../woocommerce/loop/add-to-cart.php:15
+#: ../woocommerce/loop/add-to-cart.php:29
+#: ../woocommerce/loop/add-to-cart.php:33
+#: ../woocommerce/loop/add-to-cart.php:37
+#: ../woocommerce/loop/add-to-cart.php:46
+msgid "Read More"
+msgstr "Leer más"
+
+#: ../woocommerce/loop/add-to-cart.php:42 ../woocommerce/loop/loop-end.php:13
+msgid "Add to cart"
+msgstr "Añadir a la cesta"

@@ -1,0 +1,254 @@
+/*====================
+NAV CSS Landing page
+====================*/
+
+
+
+/* Navigation Constants
+------------------------------------------------------------ */
+
+li:hover ul ul,
+li.sfHover ul ul {
+    left: -9999px;
+}
+
+li:hover,
+li.sfHover {
+    position: static;
+}
+
+#header ul.nav li a.sf-with-ul,
+#header ul.menu li a.sf-with-ul,
+#nav li a.sf-with-ul,
+#subnav li a.sf-with-ul {
+    padding-right: 25px;
+}
+
+li a .sf-sub-indicator {
+    background: url(../genesis/images/arrow-down.png) no-repeat;
+    height: 10px;
+    position: absolute;
+    right: 10px;
+    text-indent: -9999px;
+    top: 13px;
+    width: 10px;
+}
+
+li li a .sf-sub-indicator {
+    background: url(../genesis/images/arrow-right.png) no-repeat;
+    top: 10px;
+}
+
+
+/* Primary Navigation
+------------------------------------------------------------ */
+
+#nav {
+    background-color: transparent;
+    clear: both;
+    color: #686868;
+    overflow: hidden;
+    text-transform: uppercase;
+    width: 100%;
+}
+#menu-home{
+    margin-bottom: 20px;
+}
+#nav ul {
+    float: left;
+    width: 100%;
+}
+
+#nav li {
+    float: left;
+    list-style-type: none;
+}
+
+#nav li a {
+    color: #686868;
+    display: block;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 15px;
+    padding: 22px 0 0;
+    margin: 0 30px 0 0;
+    position: relative;
+    text-decoration: none;
+}
+
+#nav li a:hover,
+#nav li a:active,
+#nav .current_page_item a,
+#nav .current-cat a,
+#nav .current-menu-item a {
+    border-top: 10px solid #D44541;
+    color: #2b2b2b;
+    padding-top: 12px;
+}
+
+#nav li li a,
+#nav li li a:link,
+#nav li li a:visited {
+    background-color: #333;
+    border: 1px solid #666;
+    border-top-width: 0;
+    color: #fff;
+    font-size: 12px;
+    padding: 5px 10px;
+    position: relative;
+    text-transform: none;
+    width: 138px;
+min-width: 200px;
+}
+
+#nav li li a:hover,
+#nav li li a:active {
+    background-color: #D44541 !important;
+min-width: 200px;
+}
+
+#nav li ul {
+    height: auto;
+    left: -9999px;
+    position: absolute;
+    width: 160px;
+    z-index: 9999;
+}
+
+#nav li ul a {
+    width: 140px;
+}
+
+#nav li ul ul {
+    margin: -33px 0 0 159px;
+}
+
+#nav li:hover>ul,
+#nav li.sfHover ul {
+    left: auto;
+}
+
+
+/* Primary Navigation Extras
+------------------------------------------------------------ */
+
+#nav li.right {
+    float: right;
+    font-size: 13px;
+    padding: 6px 10px 5px;
+}
+
+#nav li.right a {
+    background: none;
+    border: none;
+    color: #fff;
+    display: inline;
+    text-decoration: none;
+}
+
+#nav li.right a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+#nav li.search {
+    padding: 0 10px;
+}
+
+#nav li.rss a {
+    background: url(../genesis/images/rss.png) no-repeat center left;
+    margin: 0 0 0 10px;
+    padding: 7px 0 5px 16px;
+}
+
+#nav li.twitter a {
+    background: url(../genesis/images/twitter-nav.png) no-repeat center left;
+    padding: 7px 0 5px 20px;
+}
+
+
+/* Secondary Navigation
+------------------------------------------------------------ */
+
+#subnav {
+    background-color: #333;
+    border-bottom: 1px solid #666;
+    clear: both;
+    color: #fff;
+    margin: 0 auto;
+    overflow: hidden;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+#subnav ul {
+    float: left;
+    width: 100%;
+}
+
+#subnav li {
+    float: left;
+    list-style-type: none;
+}
+
+#subnav li a {
+    color: #fff;
+    display: block;
+    font-size: 13px;
+    padding: 7px 10px 5px;
+    position: relative;
+    text-decoration: none;
+}
+
+#subnav li a:hover,
+#subnav li a:active,
+#subnav .current_page_item a,
+#subnav .current-cat a,
+#subnav .current-menu-item a {
+    background-color: #D44541;
+    color: #fff;
+}
+
+#subnav li li a,
+#subnav li li a:link,
+#subnav li li a:visited {
+    background-color: #333;
+    border: 1px solid #666;
+    border-top-width: 0;
+    color: #fff;
+    font-size: 12px;
+    padding: 5px 10px;
+    position: relative;
+    text-transform: none;
+    width: 138px;
+}
+
+#subnav li li a:hover,
+#subnav li li a:active {
+    background-color: #000;
+}
+
+#subnav li ul {
+    height: auto;
+    left: -9999px;
+    position: absolute;
+    width: 160px;
+    z-index: 9999;
+}
+
+#subnav li ul a {
+    width: 140px;
+}
+
+#subnav li ul ul {
+    margin: -33px 0 0 159px;
+}
+
+#subnav li:hover>ul,
+#subnav li.sfHover ul {
+    left: auto;
+}
+
+
+/*==========
+End navigation
+=============*/

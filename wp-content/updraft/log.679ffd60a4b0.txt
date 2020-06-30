@@ -1,0 +1,15 @@
+0000.002 () Opened log file at time: Wed, 19 Apr 2017 09:36:33 +0000 on http://www.salonamiante.fr
+0000.002 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.40 WP: 4.7.3 PHP: 5.6.30-0+deb8u1 (apache2handler, Linux serveurwebitga 3.16.0-4-amd64 #1 SMP Debian 3.16.36-1+deb8u1 (2016-09-03) x86_64) MySQL: 5.5.54 WPLANG: fr_FR Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.5M | 22M) multisite: N openssl: OpenSSL 1.0.1t  3 May 2016 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.002 () Free space on disk containing Updraft's temporary directory: 28707.7 MB
+0000.003 () Restore job started. Entities to restore: plugins. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.038 () Entity: plugins
+0000.038 () restore_backup(backup_file=backup_2017-03-31-0936_Le_Salon_Des_Professionnels_De_l_f009cabbb288-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:44:"/home/www/salonamiante.fr/wp-content/plugins";s:11:"description";s:10:"Extensions";}, last_one=1)
+0000.038 () Décompression de la sauvegarde… (backup_2017-03-31-0936_Le_Salon_Des_Professionnels_De_l_f009cabbb288-plugins.zip, 35.4 Mb)
+0001.276 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.276 () Déplacement des anciennes données sur le bas-côté...
+0002.734 () Top-level entities being moved: logo-slider, adrotate-bug, itga_spa-region, simple-custom-css, the-future-is-now, ajax-filter-search, shortcodes-ultimate, contact-form-7, wp-updates-notifier, addthis, ml-slider, wordpress-bootstrap-css, landing-pages, Box_itga_shortcode, tabs-responsive, rdp-wiki-press-embed, wordfence, genesis-simple-sidebars, all-in-one-wp-security-and-firewall, updraftplus, contact-form-submissions, posts-to-posts, iq-block-country, photo-gallery, akismet, index.php, cm-business-directory, adrotate, email-address-encoder, wck-custom-fields-and-custom-post-types-creator, event-manager-theme-functionality, advanced-custom-fields, wordpress-seo
+0002.748 () Déplacement de la sauvegarde décompressée…
+0004.455 () Top-level entities being moved: logo-slider, simple-custom-css, the-future-is-now, ajax-filter-search, shortcodes-ultimate, contact-form-7, wp-updates-notifier, addthis, ml-slider, wordpress-bootstrap-css, landing-pages, Box_itga_shortcode, tabs-responsive, rdp-wiki-press-embed, wordfence, genesis-simple-sidebars, all-in-one-wp-security-and-firewall, updraftplus, contact-form-submissions, posts-to-posts, iq-block-country, photo-gallery, akismet, index.php, cm-business-directory, adrotate, email-address-encoder, wck-custom-fields-and-custom-post-types-creator, event-manager-theme-functionality, wordpress-seo
+0004.527 () Nettoyage…
+0004.533 () Restore successful!
+0004.533 () Restore successful

@@ -1,0 +1,10 @@
+/* IE Specific stylesheet */
+
+
+div.flipper div.back {
+	display: none;
+}
+
+div.flipper:hover div.back {
+	display: inline-block;
+}

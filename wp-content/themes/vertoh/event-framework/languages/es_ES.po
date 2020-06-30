@@ -1,0 +1,1942 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Event Framework\n"
+"POT-Creation-Date: 2014-11-28 16:18+0100\n"
+"PO-Revision-Date: 2015-01-12 18:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../event-framework.php:61
+msgid "Theme Options"
+msgstr "Opciones temáticas"
+
+#: ../event-framework.php:101
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: ../event-framework.php:110
+msgid "Main Sidebar"
+msgstr "Barra lateral principal"
+
+#: ../event-framework.php:115
+msgid "Footer"
+msgstr "Pie de página"
+
+#: ../event-framework.php:256
+msgid "Search Widget Area : "
+msgstr "Área de búsqueda de widgets :"
+
+#: ../event-framework.php:257
+msgid "Search Widget : "
+msgstr "Buscar widget : "
+
+#: ../components/cpts/poi.php:4 ../components/cpts/poi.php:14
+msgid "Points of Interest"
+msgstr "Puntos de interés"
+
+#: ../components/cpts/poi.php:5
+msgid "Point of Interest"
+msgstr "Punto de interés"
+
+#: ../components/cpts/poi.php:6 ../components/cpts/session.php:6
+#: ../components/cpts/speaker.php:7 ../components/cpts/sponsor.php:6
+#: ../components/cpts/ticket.php:7
+#: ../multievent/includes/multievent-post-types.php:30
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: ../components/cpts/poi.php:7
+msgid "Add New Point of Interest"
+msgstr "Añadir nuevo punto de interés"
+
+#: ../components/cpts/poi.php:8
+msgid "Edit Point of Interest"
+msgstr "Editar punto de interés"
+
+#: ../components/cpts/poi.php:9
+msgid "New Point of Interest"
+msgstr "Nuevo punto de interés"
+
+#: ../components/cpts/poi.php:10
+msgid "View Point of Interest"
+msgstr "Ver punto de interés"
+
+#: ../components/cpts/poi.php:11
+msgid "Search Points of Interest"
+msgstr "Buscar punto de interés"
+
+#: ../components/cpts/poi.php:12
+msgid "No Points of Interest found"
+msgstr "No se encontraron puntos de interés"
+
+#: ../components/cpts/poi.php:13
+msgid "No Points of Interest found in trash"
+msgstr "No se encontraron puntos de interés en la papelera"
+
+#: ../components/cpts/poi.php:41
+#, php-format
+msgid "Point of Interest updated. <a href=\"%s\">View Point of Interest</a>"
+msgstr "Punto de interés actualizado. <a href=\"%s\">Ver punto de interés</a>"
+
+#: ../components/cpts/poi.php:42 ../components/cpts/session.php:49
+#: ../components/cpts/speaker.php:50 ../components/cpts/sponsor.php:43
+#: ../components/cpts/ticket.php:46
+msgid "Custom field updated."
+msgstr "Campo personalizado actualizado."
+
+#: ../components/cpts/poi.php:43 ../components/cpts/session.php:50
+#: ../components/cpts/speaker.php:51 ../components/cpts/sponsor.php:44
+#: ../components/cpts/ticket.php:47
+msgid "Custom field deleted."
+msgstr "Campo personalizado eliminado."
+
+#: ../components/cpts/poi.php:44
+msgid "Point of Interest updated."
+msgstr "Punto de interés actualizado."
+
+#: ../components/cpts/poi.php:46
+#, php-format
+msgid "Point of Interest restored to revision from %s"
+msgstr "Punto de interés restaurado para su revisión desde %s"
+
+#: ../components/cpts/poi.php:47
+#, php-format
+msgid "Point of Interest published. <a href=\"%s\">View Point of Interest</a>"
+msgstr "Punto de interés publicado. <a href=\"%s\">Ver punto de interés</a>"
+
+#: ../components/cpts/poi.php:48
+msgid "Point of Interest saved."
+msgstr "Punto de interés guardado."
+
+#: ../components/cpts/poi.php:49
+#, php-format
+msgid ""
+"Point of Interest submitted. <a target=\"_blank\" href=\"%s\">Preview Point "
+"of Interest</a>"
+msgstr ""
+"Punto de interés enviado. <a target=\"_blank\" href=\"%s\">Previsualizar "
+"punto de interés</a>"
+
+#: ../components/cpts/poi.php:50
+#, php-format
+msgid ""
+"Point of Interest scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview Point of Interest</a>"
+msgstr ""
+"Punto de interés programado para: <strong>%1$s</strong>. <a target=\"_blank"
+"\" href=\"%2$s\">Previsualizar punto de interés</a>"
+
+#: ../components/cpts/poi.php:52 ../components/cpts/session.php:59
+#: ../components/cpts/speaker.php:60 ../components/cpts/sponsor.php:53
+#: ../components/cpts/ticket.php:56
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ../components/cpts/poi.php:53
+#, php-format
+msgid ""
+"Point of Interest draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+"Point of Interest</a>"
+msgstr ""
+"Borrador del punto de interés actualizado. <a target=\"_blank\" href=\"%s"
+"\">Previsualizar punto de interés</a>"
+
+#: ../components/cpts/session.php:4 ../components/cpts/session.php:14
+msgid "Sessions"
+msgstr "Sesiones"
+
+#: ../components/cpts/session.php:5
+msgid "Session"
+msgstr "Sesión"
+
+#: ../components/cpts/session.php:7
+msgid "Add New Session"
+msgstr "Añadir nueva sesión"
+
+#: ../components/cpts/session.php:8
+msgid "Edit Session"
+msgstr "Editar sesión"
+
+#: ../components/cpts/session.php:9
+msgid "New Session"
+msgstr "Nueva sesión"
+
+#: ../components/cpts/session.php:10
+msgid "View Session"
+msgstr "Ver sesión"
+
+#: ../components/cpts/session.php:11
+msgid "Search Sessions"
+msgstr "Buscar sesiones"
+
+#: ../components/cpts/session.php:12
+msgid "No Sessions found"
+msgstr "No se encontraron sesiones"
+
+#: ../components/cpts/session.php:13
+msgid "No Sessions found in trash"
+msgstr "No se encontraron sesiones en la papelera"
+
+#: ../components/cpts/session.php:48
+#, php-format
+msgid "Session updated. <a href=\"%s\">View Session</a>"
+msgstr "Sesión actualizada. <a href=\"%s\">Ver sesión</a>"
+
+#: ../components/cpts/session.php:51
+msgid "Session updated."
+msgstr "Sesión actualizada."
+
+#: ../components/cpts/session.php:53
+#, php-format
+msgid "Session restored to revision from %s"
+msgstr "Sesión restaurada para su revisión desde %s"
+
+#: ../components/cpts/session.php:54
+#, php-format
+msgid "Session published. <a href=\"%s\">View Session</a>"
+msgstr "Sesión publicada. <a href=\"%s\">Ver sesión</a>"
+
+#: ../components/cpts/session.php:55
+msgid "Session saved."
+msgstr "Sesión guardada."
+
+#: ../components/cpts/session.php:56
+#, php-format
+msgid "Session submitted. <a target=\"_blank\" href=\"%s\">Preview Session</a>"
+msgstr ""
+"Sesión enviada. <a target=\"_blank\" href=\"%s\">Previsualizar sesión</a>"
+
+#: ../components/cpts/session.php:57
+#, php-format
+msgid ""
+"Session scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Session</a>"
+msgstr ""
+"Sesión programada para: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Previsualizar sesión</a>"
+
+#: ../components/cpts/session.php:60
+#, php-format
+msgid ""
+"Session draft updated. <a target=\"_blank\" href=\"%s\">Preview Session</a>"
+msgstr ""
+"Borrador de la sesión actualizado. <a target=\"_blank\" href=\"%s"
+"\">Previsualizar sesión</a>"
+
+#: ../components/cpts/speaker.php:5 ../components/cpts/speaker.php:16
+#: ../components/metaboxes/session.php:9
+msgid "Speakers"
+msgstr "Ponentes"
+
+#: ../components/cpts/speaker.php:6
+msgid "Speaker"
+msgstr "Ponente"
+
+#: ../components/cpts/speaker.php:8
+msgid "Add New Speaker"
+msgstr "Añadir nuevo ponente"
+
+#: ../components/cpts/speaker.php:9
+msgid "Edit Speaker"
+msgstr "Editar ponente"
+
+#: ../components/cpts/speaker.php:10
+msgid "New Speaker"
+msgstr "Nuevo ponente"
+
+#: ../components/cpts/speaker.php:11
+msgid "All Speakers"
+msgstr "Todos los ponentes"
+
+#: ../components/cpts/speaker.php:12
+msgid "View Speaker"
+msgstr "Ver ponente"
+
+#: ../components/cpts/speaker.php:13
+msgid "Search Speakers"
+msgstr "Buscar ponentes"
+
+#: ../components/cpts/speaker.php:14
+msgid "No Speakers found"
+msgstr "No se encontraron ponentes"
+
+#: ../components/cpts/speaker.php:15
+msgid "No Speakers found in trash"
+msgstr "No se encontraron ponentes en la papelera"
+
+#: ../components/cpts/speaker.php:49
+#, php-format
+msgid "Speaker updated. <a href=\"%s\">View Speaker</a>"
+msgstr "Ponente actualizado. <a href=\"%s\">Ver ponente</a>"
+
+#: ../components/cpts/speaker.php:52
+msgid "Speaker updated."
+msgstr "Ponente actualizado."
+
+#: ../components/cpts/speaker.php:54
+#, php-format
+msgid "Speaker restored to revision from %s"
+msgstr "Ponente restaurado para su revisión desde %s"
+
+#: ../components/cpts/speaker.php:55
+#, php-format
+msgid "Speaker published. <a href=\"%s\">View Speaker</a>"
+msgstr "Ponente publicado. <a href=\"%s\">Ver ponente </a>"
+
+#: ../components/cpts/speaker.php:56
+msgid "Speaker saved."
+msgstr "Ponente guardado."
+
+#: ../components/cpts/speaker.php:57
+#, php-format
+msgid "Speaker submitted. <a target=\"_blank\" href=\"%s\">Preview Speaker</a>"
+msgstr ""
+"Ponente enviado. <a target=\"_blank\" href=\"%s\">Previsualizar ponente</a>"
+
+#: ../components/cpts/speaker.php:58
+#, php-format
+msgid ""
+"Speaker scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Speaker</a>"
+msgstr ""
+"Ponente programado para: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Previsualizar ponente</a>"
+
+#: ../components/cpts/speaker.php:61
+#, php-format
+msgid ""
+"Speaker draft updated. <a target=\"_blank\" href=\"%s\">Preview Speaker</a>"
+msgstr ""
+"Borrador del ponente actualizado. <a target=\"_blank\" href=\"%s"
+"\">Previsualizar ponente</a>"
+
+#: ../components/cpts/sponsor.php:4 ../components/cpts/sponsor.php:14
+msgid "Sponsors"
+msgstr "Patrocinadores"
+
+#: ../components/cpts/sponsor.php:5
+msgid "Sponsor"
+msgstr "Patrocinador"
+
+#: ../components/cpts/sponsor.php:7
+msgid "Add New Sponsor"
+msgstr "Añadir nuevo patrocinador"
+
+#: ../components/cpts/sponsor.php:8
+msgid "Edit Sponsor"
+msgstr "Editar patrocinador"
+
+#: ../components/cpts/sponsor.php:9
+msgid "New Sponsor"
+msgstr "Nuevo patrocinador"
+
+#: ../components/cpts/sponsor.php:10
+msgid "View Sponsor"
+msgstr "Ver patrocinador"
+
+#: ../components/cpts/sponsor.php:11
+msgid "Search Sponsors"
+msgstr "Buscar patrocinadores"
+
+#: ../components/cpts/sponsor.php:12
+msgid "No Sponsors found"
+msgstr "No se encontraron patrocinadores"
+
+#: ../components/cpts/sponsor.php:13
+msgid "No Sponsors found in trash"
+msgstr "No se encontraron patrocinadores en la papelera"
+
+#: ../components/cpts/sponsor.php:42
+#, php-format
+msgid "Sponsor updated. <a href=\"%s\">View Sponsor</a>"
+msgstr "Patrocinador actualizado. <a href=\"%s\">Ver patrocinador</a>"
+
+#: ../components/cpts/sponsor.php:45
+msgid "Sponsor updated."
+msgstr "Patrocinador actualizado."
+
+#: ../components/cpts/sponsor.php:47
+#, php-format
+msgid "Sponsor restored to revision from %s"
+msgstr "Patrocinador restaurado para su revisión desde %s"
+
+#: ../components/cpts/sponsor.php:48
+#, php-format
+msgid "Sponsor published. <a href=\"%s\">View Sponsor</a>"
+msgstr "Patrocinador publicado. <a href=\"%s\">Ver patrocinador</a>"
+
+#: ../components/cpts/sponsor.php:49
+msgid "Sponsor saved."
+msgstr "Patrocinador guardado."
+
+#: ../components/cpts/sponsor.php:50
+#, php-format
+msgid "Sponsor submitted. <a target=\"_blank\" href=\"%s\">Preview Sponsor</a>"
+msgstr ""
+"Patrocinador enviado. <a target=\"_blank\" href=\"%s\">Previsualizar "
+"patrocinador</a>"
+
+#: ../components/cpts/sponsor.php:51
+#, php-format
+msgid ""
+"Sponsor scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Sponsor</a>"
+msgstr ""
+"Patrocinador programado para: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Previsualizar patrocinador</a>"
+
+#: ../components/cpts/sponsor.php:54
+#, php-format
+msgid ""
+"Sponsor draft updated. <a target=\"_blank\" href=\"%s\">Preview Sponsor</a>"
+msgstr ""
+"Borrador del patrocinador actualizado. <a target=\"_blank\" href=\"%s"
+"\">Previsualizar patrocinador</a>"
+
+#: ../components/cpts/ticket.php:5 ../components/cpts/ticket.php:15
+msgid "Tickets"
+msgstr "Entradas"
+
+#: ../components/cpts/ticket.php:6
+msgid "Ticket"
+msgstr "Entrada"
+
+#: ../components/cpts/ticket.php:8
+msgid "Add New Ticket"
+msgstr "Añadir nueva entrada"
+
+#: ../components/cpts/ticket.php:9
+msgid "Edit Ticket"
+msgstr "Editar entrada"
+
+#: ../components/cpts/ticket.php:10
+msgid "New Ticket"
+msgstr "Nueva entrada"
+
+#: ../components/cpts/ticket.php:11
+msgid "View Ticket"
+msgstr "Ver entrada"
+
+#: ../components/cpts/ticket.php:12
+msgid "Search Tickets"
+msgstr "Buscar entradas"
+
+#: ../components/cpts/ticket.php:13
+msgid "No Tickets found"
+msgstr "No se encontraron entradas"
+
+#: ../components/cpts/ticket.php:14
+msgid "No Tickets found in trash"
+msgstr "No se encontraron entradas en la papelera"
+
+#: ../components/cpts/ticket.php:45
+#, php-format
+msgid "Ticket updated. <a href=\"%s\">View Ticket</a>"
+msgstr "Entrada actualizada. <a href=\"%s\">Ver entrada</a>"
+
+#: ../components/cpts/ticket.php:48
+msgid "Ticket updated."
+msgstr "Entrada actualizada."
+
+#: ../components/cpts/ticket.php:50
+#, php-format
+msgid "Ticket restored to revision from %s"
+msgstr "Entrada actualizada para su revisión desde %s"
+
+#: ../components/cpts/ticket.php:51
+#, php-format
+msgid "Ticket published. <a href=\"%s\">View Ticket</a>"
+msgstr "Entrada publicada. <a href=\"%s\">Ver entrada</a>"
+
+#: ../components/cpts/ticket.php:52
+msgid "Ticket saved."
+msgstr "Entrada guardada."
+
+#: ../components/cpts/ticket.php:53
+#, php-format
+msgid "Ticket submitted. <a target=\"_blank\" href=\"%s\">Preview Ticket</a>"
+msgstr ""
+"Entrada enviada. <a target=\"_blank\" href=\"%s\">Previsualizar entrada</a>"
+
+#: ../components/cpts/ticket.php:54
+#, php-format
+msgid ""
+"Ticket scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview Ticket</a>"
+msgstr ""
+"Entrada programada para: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Previsualizar entrada</a>"
+
+#: ../components/cpts/ticket.php:57
+#, php-format
+msgid ""
+"Ticket draft updated. <a target=\"_blank\" href=\"%s\">Preview Ticket</a>"
+msgstr ""
+"Borrador de la entrada actualizado. <a target=\"_blank\" href=\"%s"
+"\">Previsualizar entrada</a>"
+
+#: ../components/metaboxes/poi.php:7
+msgid "POI Address Info"
+msgstr "Información de la dirección POI"
+
+#: ../components/metaboxes/poi.php:18
+msgid "Address"
+msgstr "Dirección"
+
+#: ../components/metaboxes/poi.php:22
+msgid "Manual coordinates"
+msgstr "Coordinadas manuales"
+
+#: ../components/metaboxes/poi.php:26
+msgid "Latitude"
+msgstr "Latitud"
+
+#: ../components/metaboxes/poi.php:30
+msgid "Longitude"
+msgstr "Longitud"
+
+#: ../components/metaboxes/session.php:6
+msgid "Session Details"
+msgstr "Detalles de la sesión"
+
+#: ../components/metaboxes/session.php:34
+msgid "Show in home page"
+msgstr "Mostrar en la página de inicio"
+
+#: ../components/metaboxes/session.php:38
+msgid "Date"
+msgstr "Fecha"
+
+#: ../components/metaboxes/session.php:42
+msgid "Start Time"
+msgstr "Hora de inicio"
+
+#: ../components/metaboxes/session.php:44
+#: ../components/metaboxes/session.php:48
+msgid "Format hh:mm"
+msgstr "Formato hh:mm"
+
+#: ../components/metaboxes/session.php:46
+msgid "End Time"
+msgstr "Hora de finalización"
+
+#: ../components/metaboxes/session.php:51
+msgid ""
+"Please enter the time in 24 hours and four digits format. 9am should be "
+"inputted as 09:00 <strong>not</strong> as 9:00 - notice the lack of a zero."
+msgstr ""
+"Por favor, introduce la hora en un formato de 24 horas y cuatro dígitos. Las "
+"9 AM deberían introducirse como 09:00,<strong>no</strong> como las 9:00 (ten "
+"en cuenta que falta un cero)."
+
+#: ../components/metaboxes/session.php:54
+#: ../components/widgets/widget-registration.php:159
+msgid "Registration Embed Code:"
+msgstr "Código de registro para inserción:"
+
+#: ../components/metaboxes/session.php:58
+msgid "Registration Title:"
+msgstr "Título del registro:"
+
+#: ../components/metaboxes/session.php:62
+msgid "Registration Text:"
+msgstr "Texto del registro:"
+
+#: ../components/metaboxes/session.php:116
+#: ../components/metaboxes/speaker.php:80
+#: ../components/metaboxes/speaker.php:113
+#: ../components/metaboxes/speaker.php:145
+#: ../components/widgets/widget-speakers.php:153
+msgid "Select and order speakers to show in this section"
+msgstr "Selecciona y ordena los ponentes que mostrar en esta sección"
+
+#: ../components/metaboxes/speaker.php:5
+msgid "Speaker Details"
+msgstr "Detalles del ponente"
+
+#: ../components/metaboxes/speaker.php:8
+msgid "Speakers Sections"
+msgstr "Secciones de los ponentes"
+
+#: ../components/metaboxes/speaker.php:17
+msgid "Keynote"
+msgstr "Idea clave"
+
+#: ../components/metaboxes/speaker.php:21
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: ../components/metaboxes/speaker.php:76
+msgid "Title Section 1"
+msgstr "Título de la sección 1"
+
+#: ../components/metaboxes/speaker.php:109
+msgid "Title Section 2"
+msgstr "Título de la sección 2"
+
+#: ../components/metaboxes/speaker.php:141
+msgid "Title Section 3"
+msgstr "Título de la sección 3"
+
+#: ../components/metaboxes/sponsor.php:5
+msgid "Sponsor Details"
+msgstr "Detalles del patrocinador"
+
+#: ../components/metaboxes/sponsor.php:12
+msgid "Link"
+msgstr "Enlace"
+
+#: ../components/metaboxes/ticket.php:5
+msgid "Ticket Details"
+msgstr "Detalles sobre la entrada"
+
+#: ../components/metaboxes/ticket.php:15
+msgid "Price"
+msgstr "Precio"
+
+#: ../components/metaboxes/ticket.php:19
+msgid "Button Text"
+msgstr "Texto del botón"
+
+#: ../components/metaboxes/ticket.php:23
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: ../components/metaboxes/ticket.php:27
+msgid "Status"
+msgstr "Estado"
+
+#: ../components/taxonomies/poi-group.php:6
+#: ../components/taxonomies/poi-group.php:16
+msgid "POI Groups"
+msgstr "Grupos POI"
+
+#: ../components/taxonomies/poi-group.php:7
+msgid "POI Group"
+msgstr "Grupo POI"
+
+#: ../components/taxonomies/poi-group.php:8
+msgid "Search POI Groups"
+msgstr "Busca grupos POI"
+
+#: ../components/taxonomies/poi-group.php:9
+msgid "All POI Groups"
+msgstr "Todos los grupos POI"
+
+#: ../components/taxonomies/poi-group.php:10
+msgid "Parent POI Group"
+msgstr "Grupo POI relacionado"
+
+#: ../components/taxonomies/poi-group.php:11
+msgid "Parent POI Group:"
+msgstr "Grupo POI relacionado:"
+
+#: ../components/taxonomies/poi-group.php:12
+msgid "Edit POI Group"
+msgstr "Editar grupo POI"
+
+#: ../components/taxonomies/poi-group.php:13
+msgid "Update POI Group"
+msgstr "Actualizar grupo POI"
+
+#: ../components/taxonomies/poi-group.php:14
+msgid "Add New POI Group"
+msgstr "Añadir nuevo grupo POI"
+
+#: ../components/taxonomies/poi-group.php:15
+msgid "New POI Group"
+msgstr "Nuevo grupo POI"
+
+#: ../components/taxonomies/session-location.php:5
+msgid "Session Locations"
+msgstr "Ubicaciones de la sesión"
+
+#: ../components/taxonomies/session-location.php:6
+msgid "Session Location"
+msgstr "Ubicación de la sesión"
+
+#: ../components/taxonomies/session-location.php:7
+msgid "Search Session Locations"
+msgstr "Busca ubicaciones de la sesión"
+
+#: ../components/taxonomies/session-location.php:8
+msgid "All Session Locations"
+msgstr "Todas las ubicaciones de la sesión"
+
+#: ../components/taxonomies/session-location.php:9
+msgid "Parent Session Location"
+msgstr "Ubicación de sesión relacionada"
+
+#: ../components/taxonomies/session-location.php:10
+msgid "Parent Session Location:"
+msgstr "Ubicación de sesión relacionada:"
+
+#: ../components/taxonomies/session-location.php:11
+msgid "Edit Session Location"
+msgstr "Editar ubicación de la sesión"
+
+#: ../components/taxonomies/session-location.php:12
+msgid "Update Session Location"
+msgstr "Actualizar ubicación de la sesión"
+
+#: ../components/taxonomies/session-location.php:13
+msgid "Add New Session Location"
+msgstr "Añadir nueva ubicación de la sesión"
+
+#: ../components/taxonomies/session-location.php:14
+msgid "New Session Location"
+msgstr "Nueva ubicación de la sesión"
+
+#: ../components/taxonomies/session-location.php:15
+#: ../multievent/includes/multievent-post-types.php:64
+msgid "Locations"
+msgstr "Ubicaciones"
+
+#: ../components/taxonomies/session-track.php:5
+msgid "Session Tracks"
+msgstr "Pistas de la sesión"
+
+#: ../components/taxonomies/session-track.php:6
+msgid "Session Track"
+msgstr "Pista de la sesión"
+
+#: ../components/taxonomies/session-track.php:7
+msgid "Search Session Tracks"
+msgstr "Búsqueda de pistas de la sesión"
+
+#: ../components/taxonomies/session-track.php:8
+msgid "All Session Tracks"
+msgstr "Todas las pistas de la sesión"
+
+#: ../components/taxonomies/session-track.php:9
+msgid "Parent Session Track"
+msgstr "Pista de la sesión relacionada"
+
+#: ../components/taxonomies/session-track.php:10
+msgid "Parent Session Track:"
+msgstr "Pista de la sesión relacionada:"
+
+#: ../components/taxonomies/session-track.php:11
+msgid "Edit Session Track"
+msgstr "Editar pista de la sesión"
+
+#: ../components/taxonomies/session-track.php:12
+msgid "Update Session Track"
+msgstr "Actualizar pista de la sesión"
+
+#: ../components/taxonomies/session-track.php:13
+msgid "Add New Session Track"
+msgstr "Añadir nueva pista de la sesión"
+
+#: ../components/taxonomies/session-track.php:14
+msgid "New Session Track"
+msgstr "Nueva pista de la sesión"
+
+#: ../components/taxonomies/session-track.php:15
+msgid "Tracks"
+msgstr "Pistas"
+
+#: ../components/taxonomies/sponsor-tier.php:5
+#: ../components/taxonomies/sponsor-tier.php:15
+msgid "Tiers"
+msgstr "Gradas"
+
+#: ../components/taxonomies/sponsor-tier.php:6
+msgid "Tier"
+msgstr "Grada"
+
+#: ../components/taxonomies/sponsor-tier.php:7
+msgid "Search Tiers"
+msgstr "Buscar gradas"
+
+#: ../components/taxonomies/sponsor-tier.php:8
+msgid "All Tiers"
+msgstr "Todas las gradas"
+
+#: ../components/taxonomies/sponsor-tier.php:9
+msgid "Parent Tier"
+msgstr "Grada relacionada"
+
+#: ../components/taxonomies/sponsor-tier.php:10
+msgid "Parent Tier:"
+msgstr "Grada relacionada:"
+
+#: ../components/taxonomies/sponsor-tier.php:11
+msgid "Edit Tier"
+msgstr "Editar grada"
+
+#: ../components/taxonomies/sponsor-tier.php:12
+msgid "Update Tier"
+msgstr "Actualizar grada"
+
+#: ../components/taxonomies/sponsor-tier.php:13
+msgid "Add New Tier"
+msgstr "Añadir nueva grada"
+
+#: ../components/taxonomies/sponsor-tier.php:14
+msgid "New Tier"
+msgstr "Nueva grada"
+
+#: ../components/templates/schedule.php:30
+msgid "Filter by track"
+msgstr "Filtrar por pista"
+
+#: ../components/templates/schedule.php:33
+#: ../components/templates/schedule.php:50
+#: ../components/templates/schedule.php:66
+#: ../components/templates/single-session.php:22
+#: ../components/templates/single-speaker.php:27
+msgid "All"
+msgstr "Todos"
+
+#: ../components/templates/schedule.php:47
+msgid "Filter by location"
+msgstr "Filtrar por ubicación"
+
+#: ../components/templates/schedule.php:63
+msgid "Filter by days"
+msgstr "Filtrar por días"
+
+#: ../components/templates/single-session.php:40
+msgid "Bookmark and Share"
+msgstr "Añadir a favoritos y compartir"
+
+#: ../components/templates/single-session.php:64
+#: ../components/templates/single-speaker.php:70
+msgid "Location:"
+msgstr "Ubicación:"
+
+#: ../components/templates/single-session.php:65
+#: ../components/templates/single-speaker.php:71
+msgid "Date:"
+msgstr "Fecha:"
+
+#: ../components/templates/single-session.php:66
+#: ../components/templates/single-speaker.php:72
+msgid "Time:"
+msgstr "Hora:"
+
+#: ../components/templates/single-session.php:86
+msgid "Register to the session!"
+msgstr "¡Regístrate en la sesión!"
+
+#: ../components/templates/single-speaker.php:37
+#: ../components/templates/single-speaker.php:87
+msgid "View full schedule"
+msgstr "Ver programación completa"
+
+#: ../components/templates/single-speaker.php:39
+msgid "Related Sessions"
+msgstr "Sesiones relacionadas"
+
+#: ../components/templates/single-speaker.php:74
+msgid "View session"
+msgstr "Ver sesión"
+
+#: ../components/templates/speakers.php:40
+msgid "View profile"
+msgstr "Ver perfil"
+
+#: ../components/widgets/widget-call-to-action.php:33
+#: ../components/widgets/widget-call-to-action2.php:33
+msgid "Shows a section displaying the call to action."
+msgstr "Muestra una sección en la que aparece la llamada a la acción."
+
+#: ../components/widgets/widget-call-to-action.php:36
+msgid " Call to Action"
+msgstr " Llamada a la acción"
+
+#: ../components/widgets/widget-call-to-action.php:130
+#: ../components/widgets/widget-call-to-action2.php:112
+#: ../components/widgets/widget-comments.php:102
+#: ../components/widgets/widget-connect.php:99
+#: ../components/widgets/widget-contact.php:118
+#: ../components/widgets/widget-event-description.php:98
+#: ../components/widgets/widget-facebook-rsvp.php:143
+#: ../components/widgets/widget-instagram.php:131
+#: ../components/widgets/widget-media.php:98
+#: ../components/widgets/widget-news.php:121
+#: ../components/widgets/widget-registration.php:150
+#: ../components/widgets/widget-schedule.php:133
+#: ../components/widgets/widget-speakers.php:139
+#: ../components/widgets/widget-sponsors.php:108
+#: ../components/widgets/widget-tickets.php:105
+#: ../components/widgets/widget-timer.php:120
+#: ../components/widgets/widget-twitter.php:150
+msgid "Title:"
+msgstr "Título:"
+
+#: ../components/widgets/widget-call-to-action.php:133
+#: ../components/widgets/widget-contact.php:121
+#: ../components/widgets/widget-media.php:101
+#: ../components/widgets/widget-news.php:124
+#: ../components/widgets/widget-registration.php:153
+#: ../components/widgets/widget-schedule.php:136
+#: ../components/widgets/widget-speakers.php:142
+#: ../components/widgets/widget-sponsors.php:111
+#: ../components/widgets/widget-tickets.php:108
+msgid "Subtitle:"
+msgstr "Subtítulo:"
+
+#: ../components/widgets/widget-call-to-action.php:136
+msgid "Text Color:"
+msgstr "Color del texto:"
+
+#: ../components/widgets/widget-call-to-action.php:140
+msgid "Text Alignment:"
+msgstr "Alineación del texto:"
+
+#: ../components/widgets/widget-call-to-action.php:147
+#: ../components/widgets/widget-call-to-action2.php:118
+msgid "Image:"
+msgstr "Imagen:"
+
+#: ../components/widgets/widget-call-to-action.php:150
+#: ../components/widgets/widget-call-to-action2.php:121
+msgid "Upload image"
+msgstr "Cargar imagen"
+
+#: ../components/widgets/widget-call-to-action.php:152
+#: ../components/widgets/widget-call-to-action2.php:123
+msgid "Remove Image"
+msgstr "Eliminar imagen"
+
+#: ../components/widgets/widget-call-to-action.php:156
+#: ../components/widgets/widget-sponsors.php:114
+msgid "Button text:"
+msgstr "Texto del botón:"
+
+#: ../components/widgets/widget-call-to-action.php:159
+#: ../components/widgets/widget-sponsors.php:117
+msgid "Button url:"
+msgstr "Url del butón:"
+
+#: ../components/widgets/widget-call-to-action.php:162
+msgid "Button Hover Background Color:"
+msgstr "Color de fondo del botón cuando se pasa el ratón por encima"
+
+#: ../components/widgets/widget-call-to-action2.php:36
+msgid " Call to Action 2"
+msgstr " Llamada a la acción 2"
+
+#: ../components/widgets/widget-call-to-action2.php:115
+msgid "Text:"
+msgstr "Texto:"
+
+#: ../components/widgets/widget-call-to-action2.php:127
+msgid "Image url:"
+msgstr "Url de la imagen:"
+
+#: ../components/widgets/widget-comments.php:33
+msgid "Shows a section displaying the latest comments of your posts."
+msgstr ""
+"Muestra una sección en la que aparecen los comentarios más recientes en tus "
+"posts."
+
+#: ../components/widgets/widget-comments.php:36
+msgid " Latest comments"
+msgstr " Últimos comentarios"
+
+#: ../components/widgets/widget-comments.php:105
+msgid "Number of comments to show:"
+msgstr "Número de comentarios que se muestran:"
+
+#: ../components/widgets/widget-connect.php:33
+msgid ""
+"Shows a section displaying icons for the social media links filled out in "
+"the Customizer"
+msgstr ""
+"Muestra una sección en la que aparecen iconos de enlace a las redes "
+"sociales, que pueden completarse en el personalizador"
+
+#: ../components/widgets/widget-connect.php:36
+msgid " Social Media Links"
+msgstr "Enlaces a redes sociales"
+
+#: ../components/widgets/widget-contact.php:33
+msgid "Display a Contact Form"
+msgstr "Mostrar un formulario de contacto"
+
+#: ../components/widgets/widget-contact.php:36
+msgid " Contact Form"
+msgstr "Formulario de contacto"
+
+#: ../components/widgets/widget-contact.php:124
+msgid "\"Send message\" Text:"
+msgstr "\"Enviar mensaje\" Texto:"
+
+#: ../components/widgets/widget-contact.php:127
+msgid "Email Address To Send Forms To:"
+msgstr "Dirección de correo electrónico a la que enviar formularios:"
+
+#: ../components/widgets/widget-contact.php:130
+msgid "Recaptcha Public Key:"
+msgstr "Clave pública para el recaptcha:"
+
+#: ../components/widgets/widget-contact.php:133
+msgid "Recaptcha Private Key:"
+msgstr "Clave privada para el recaptcha:"
+
+#: ../components/widgets/widget-contact.php:172
+msgid "The reCAPTCHA wasn't entered correctly. Go back and try it again.!"
+msgstr "El reCAPTCHA no se introdujo correctamente. ¡Vuelve a intentarlo!"
+
+#: ../components/widgets/widget-contact.php:180
+msgid "Forgot your name!"
+msgstr "¡Has olvidado tu nombre!"
+
+#: ../components/widgets/widget-contact.php:190
+msgid "Forgot to enter in your e-mail address."
+msgstr "Has olvidado introducir tu dirección de correo electrónico."
+
+#: ../components/widgets/widget-contact.php:194
+msgid "You entered an invalid email address."
+msgstr "Has introducido una dirección de correo electrónico inválida."
+
+#: ../components/widgets/widget-contact.php:203
+msgid "You forgot to enter a message!"
+msgstr "¡Has olvidado introducir un mensaje!"
+
+#: ../components/widgets/widget-contact.php:216
+msgid "Submitted message from "
+msgstr "Mensaje enviado desde"
+
+#: ../components/widgets/widget-contact.php:217
+msgid "Name:"
+msgstr "Nombre:"
+
+#: ../components/widgets/widget-contact.php:217
+msgid "Email:"
+msgstr "E-mail:"
+
+#: ../components/widgets/widget-contact.php:217
+msgid "Comments:"
+msgstr "Comentarios:"
+
+#: ../components/widgets/widget-contact.php:223
+msgid "Your email was sent."
+msgstr "Tu e-mail ha sido enviado."
+
+#: ../components/widgets/widget-contact.php:226
+msgid "Error submitting the form"
+msgstr "Se produjo un error durante el envío del formulario"
+
+#: ../components/widgets/widget-event-description.php:33
+msgid "Shows the event description"
+msgstr "Muestra la descripción del evento"
+
+#: ../components/widgets/widget-event-description.php:36
+msgid " Event Description"
+msgstr " Descripción del evento"
+
+#: ../components/widgets/widget-event-description.php:101
+msgid "Content:"
+msgstr "Contenido:"
+
+#: ../components/widgets/widget-explore.php:33
+msgid "Shows a section displaying points of interest & maps"
+msgstr "Muestra una sección en la que aparecen puntos de interés y mapas."
+
+#: ../components/widgets/widget-explore.php:36
+msgid " Points of Interest"
+msgstr " Puntos de interés"
+
+#: ../components/widgets/widget-explore.php:105
+msgid "Widget Title:"
+msgstr "Título del widget:"
+
+#: ../components/widgets/widget-explore.php:107
+msgid "Google Map Zoom:"
+msgstr "Zoom de Google Maps:"
+
+#: ../components/widgets/widget-explore.php:108
+msgid "From 1 to 21"
+msgstr "De 1 a 21"
+
+#: ../components/widgets/widget-facebook-rsvp.php:33
+msgid "Shows a section displaying users who've RSVP'd via Facebook"
+msgstr ""
+"Muestra una sección en la que aparecen los usuarios cuya asistencia hemos "
+"confirmado a través de Facebook"
+
+#: ../components/widgets/widget-facebook-rsvp.php:36
+msgid " Facebook RSVP Stats"
+msgstr "Estados de confirmación de asistencia en Facebook"
+
+#: ../components/widgets/widget-facebook-rsvp.php:146
+msgid "Link to Event on Facebook:"
+msgstr "Enlace al evento en Facebook:"
+
+#: ../components/widgets/widget-facebook-rsvp.php:149
+#: ../components/widgets/widget-instagram.php:134
+#: ../components/widgets/widget-twitter.php:153
+msgid "Link Text:"
+msgstr "Texto del enlace:"
+
+#: ../components/widgets/widget-facebook-rsvp.php:152
+msgid "Event ID:"
+msgstr "ID del evento:"
+
+#: ../components/widgets/widget-facebook-rsvp.php:155
+msgid "App ID:"
+msgstr "ID de la app:"
+
+#: ../components/widgets/widget-facebook-rsvp.php:158
+msgid "Secret Key:"
+msgstr "Contraseña secreta:"
+
+#: ../components/widgets/widget-footer-text-columns.php:33
+#: ../components/widgets/widget-media.php:33
+#: ../components/widgets/widget-text-columns.php:33
+#: ../components/widgets/widget-timer.php:33
+msgid "Shows text columns organized in columns"
+msgstr "Muestra columnas de texto organizadas en columnas"
+
+#: ../components/widgets/widget-footer-text-columns.php:36
+msgid " Footer Text Columns"
+msgstr " Columnas de texto del pie de página"
+
+#: ../components/widgets/widget-footer-text-columns.php:115
+#: ../components/widgets/widget-text-columns.php:113
+msgid "Title 1:"
+msgstr "Título 1: "
+
+#: ../components/widgets/widget-footer-text-columns.php:118
+#: ../components/widgets/widget-text-columns.php:116
+msgid "Content 1:"
+msgstr "Contenido 1:"
+
+#: ../components/widgets/widget-footer-text-columns.php:121
+#: ../components/widgets/widget-text-columns.php:119
+msgid "Title 2:"
+msgstr "Título 2:"
+
+#: ../components/widgets/widget-footer-text-columns.php:124
+#: ../components/widgets/widget-text-columns.php:122
+msgid "Content 2:"
+msgstr "Contenido 2:"
+
+#: ../components/widgets/widget-footer-text-columns.php:127
+#: ../components/widgets/widget-text-columns.php:125
+msgid "Title 3:"
+msgstr "Título 3:"
+
+#: ../components/widgets/widget-footer-text-columns.php:130
+#: ../components/widgets/widget-text-columns.php:128
+msgid "Content 3:"
+msgstr "Contenido 3:"
+
+#: ../components/widgets/widget-instagram.php:33
+msgid "Shows a section displaying instagram photos"
+msgstr "Muestra una sección en la que aparecen imágenes de instagram"
+
+#: ../components/widgets/widget-instagram.php:36
+msgid " Instagram"
+msgstr " Instragam"
+
+#: ../components/widgets/widget-instagram.php:137
+msgid "User ID:"
+msgstr "ID del usuario:"
+
+#: ../components/widgets/widget-instagram.php:140
+msgid "Client ID:"
+msgstr "ID del cliente:"
+
+#: ../components/widgets/widget-instagram.php:143
+msgid "Client Secret:"
+msgstr "Secreto del cliente:"
+
+#: ../components/widgets/widget-media.php:36
+msgid " Media Grid"
+msgstr " Cuadro multimedia"
+
+#: ../components/widgets/widget-news.php:33
+msgid "Shows a section displaying the latest posts"
+msgstr "Muestra una sección en la que aparecen los posts más recientes"
+
+#: ../components/widgets/widget-news.php:36
+msgid " Latest News"
+msgstr " Últimas noticias"
+
+#: ../components/widgets/widget-news.php:127
+msgid "\"View all news\" Text:"
+msgstr "\"Ver todas las noticias\" Texto:"
+
+#: ../components/widgets/widget-registration.php:33
+msgid "Shows registration information & ticket display"
+msgstr "Muestra información de registro y expone las entradas"
+
+#: ../components/widgets/widget-registration.php:36
+msgid " Registration"
+msgstr " Registro"
+
+#: ../components/widgets/widget-registration.php:156
+msgid "Main Text:"
+msgstr "Texto principal:"
+
+#: ../components/widgets/widget-registration.php:162
+msgid "Show in top menu:"
+msgstr "Mostrar en menú superior:"
+
+#: ../components/widgets/widget-registration.php:164
+#: ../components/widgets/widget-registration.php:171
+msgid "With this text:"
+msgstr "Con este texto:"
+
+#: ../components/widgets/widget-registration.php:166
+#: ../components/widgets/widget-registration.php:173
+msgid "linking to this url:"
+msgstr "que enlaza a esta url:"
+
+#: ../components/widgets/widget-registration.php:169
+msgid "Show call to action:"
+msgstr "Mostrar llamada a la acción:"
+
+#: ../components/widgets/widget-schedule.php:33
+msgid "Displays Event Schedule widget."
+msgstr "Muestra el widget de programación de eventos"
+
+#: ../components/widgets/widget-schedule.php:36
+msgid " Event Schedule"
+msgstr "Programa del evento"
+
+#: ../components/widgets/widget-schedule.php:140
+msgid "\"More info\" Text:"
+msgstr "\"Más información\" Texto:"
+
+#: ../components/widgets/widget-schedule.php:143
+msgid "\"View full schedule\" Button Text:"
+msgstr "\"Ver programación completa\" Texto del botón:"
+
+#: ../components/widgets/widget-speakers.php:33
+msgid ""
+"Shows a section displaying speakers created in the Speakers custom post type."
+msgstr ""
+"Muestra una sección en la que aparecen los ponentes creados en el tipo de "
+"post personalizado para ponentes."
+
+#: ../components/widgets/widget-speakers.php:36
+msgid " Speaker List"
+msgstr "Lista de ponentes"
+
+#: ../components/widgets/widget-speakers.php:145
+msgid "\"View profile\" Text:"
+msgstr "\"Ver perfil\" Texto:"
+
+#: ../components/widgets/widget-speakers.php:148
+msgid "\"View all speakers\" Text:"
+msgstr "\"Ver todos los ponentes\" Texto:"
+
+#: ../components/widgets/widget-speakers.php:151
+msgid "Speakers:"
+msgstr "Ponentes:"
+
+#: ../components/widgets/widget-sponsors.php:33
+msgid ""
+"Shows a section displaying sponsors by tier type created in the Sponsors "
+"custom post type."
+msgstr ""
+"Muestra una sección en la que aparecen los patrocinadores por tipo de grada "
+"creados en el tipo de post personalizado para patrocinadores."
+
+#: ../components/widgets/widget-sponsors.php:36
+msgid " Sponsor List"
+msgstr "Lista de patrocinadores"
+
+#: ../components/widgets/widget-text-columns.php:36
+msgid " Text Columns"
+msgstr "Columnas de texto"
+
+#: ../components/widgets/widget-tickets.php:33
+msgid ""
+"Shows a section displaying tickets by tier type created in the Tickets "
+"custom post type."
+msgstr ""
+"Muestra una sección en la que aparecen las entradas por tipo de grada "
+"creadas en el tipo de post personalizado para entradas."
+
+#: ../components/widgets/widget-tickets.php:36
+msgid " Tickets List"
+msgstr "Lista de entradas"
+
+#: ../components/widgets/widget-timer.php:36
+msgid " Event Timer"
+msgstr "Temporizador de eventos"
+
+#: ../components/widgets/widget-timer.php:123
+msgid "Countdown Date:"
+msgstr "Fecha de cuenta atrás:"
+
+#: ../components/widgets/widget-timer.php:127
+msgid "Button Text:"
+msgstr "Texto del botón:"
+
+#: ../components/widgets/widget-timer.php:130
+msgid "Button Link:"
+msgstr "Enlace del botón:"
+
+#: ../components/widgets/widget-twitter.php:33
+msgid "Shows a section displaying latest tweets"
+msgstr "Muestra una sección en la que aparecen los últimos tuits"
+
+#: ../components/widgets/widget-twitter.php:36
+msgid " Latest Tweets"
+msgstr " Últimos tuits"
+
+#: ../components/widgets/widget-twitter.php:156
+msgid "Event Hashtag Keyword:"
+msgstr "Palabra clave para el hashtag del evento:"
+
+#: ../components/widgets/widget-twitter.php:158
+msgid "(Leave out the #)"
+msgstr "(No incluir el #)"
+
+#: ../components/widgets/widget-twitter.php:160
+msgid "Button Width:"
+msgstr "Anchura del botón:"
+
+#: ../components/widgets/widget-twitter.php:163
+msgid "Access Token:"
+msgstr "Clave de acceso:"
+
+#: ../components/widgets/widget-twitter.php:166
+msgid "Access Token Secret:"
+msgstr "Clave secreta de acceso:"
+
+#: ../components/widgets/widget-twitter.php:169
+msgid "Consumer Key:"
+msgstr "Clave del cliente:"
+
+#: ../components/widgets/widget-twitter.php:172
+msgid "Consumer Secret:"
+msgstr "Secreto del cliente:"
+
+#: ../helpers/cpt/sessions.php:105
+msgid "More info"
+msgstr "Más información"
+
+#: ../inc/comments.php:11
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está esperando a ser moderado."
+
+#: ../inc/comments.php:16
+msgid "Edit"
+msgstr "Editar"
+
+#: ../inc/comments.php:24
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: ../inc/event-admin.php:12
+msgid "Theme Options saved"
+msgstr "Opciones temáticas guardadas"
+
+#: ../inc/event-admin.php:18
+msgid "Event Framework Logo"
+msgstr "Borrador del logo del evento"
+
+#: ../inc/event-admin.php:28
+msgid "View Theme Documentation"
+msgstr "Ver documentación del tema"
+
+#: ../inc/event-admin.php:29
+msgid "Save options"
+msgstr "Guardar opciones"
+
+#: ../inc/taxonomy-meta.php:11
+msgid "Color"
+msgstr "Color"
+
+#: ../inc/fields/font.php:47
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: ../inc/fields/gallery.php:21
+msgid "Upload Image"
+msgstr "Cargar imagen"
+
+#: ../inc/fields/gallery.php:24
+msgid "or add a video url (Youtube or Vimeo)"
+msgstr "o aádir la url a un vídeo (Youtube o Vimeo)"
+
+#: ../inc/fields/gallery.php:27
+msgid "Add Video"
+msgstr "Añadir vídeo"
+
+#: ../lib/taxonomy-meta.php:124 ../lib/taxonomy-meta.php:465
+msgid "Delete this image"
+msgstr "Borrar esta imagen"
+
+#: ../lib/taxonomy-meta.php:124 ../lib/taxonomy-meta.php:434
+#: ../lib/taxonomy-meta.php:465
+msgid "Delete"
+msgstr "Borrar"
+
+#: ../lib/taxonomy-meta.php:440
+msgid "Upload new files"
+msgstr "Cargar nuevos archivos"
+
+#: ../lib/taxonomy-meta.php:443
+msgid "Add more file"
+msgstr "Añadir más archivos"
+
+#: ../lib/taxonomy-meta.php:471
+msgid "Upload new image"
+msgstr "Cargar nueva imagen"
+
+#: ../lib/taxonomy-meta.php:479
+msgid "Select a color"
+msgstr "Seleccionar un color"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:31
+#: ../lib/api/admin/class-cc-tk-license-menu.php:46
+msgid "Theme Activation"
+msgstr "Activación del tema"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:40
+msgid "License Activation"
+msgstr "Activación de la licencia"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:53
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:66
+msgid "License Key"
+msgstr "Clave de la licencia"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:67
+msgid "License email"
+msgstr "E-mail de la licencia"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:71
+msgid "Theme License Deactivation"
+msgstr "Desactivación de la licencia del tema"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:72
+msgid "Deactivate Theme License"
+msgstr "Desactivar licencia del tema"
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:151
+msgid "Plugin activated."
+msgstr "Plugin activado."
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:157
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+"La conexión con el servidor API de la contraseña de la licencia falló. "
+"Inténtalo de nuevo más tarde."
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:241
+msgid ""
+"The license could not be deactivated. Use the License Deactivation tab to "
+"manually deactivate the license before activating a new license."
+msgstr ""
+"No se pudo desactivar la licencia. Utiliza la pestaña de desactivación para "
+"desactivar la licencia de forma manual antes de activar una nueva."
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:274
+msgid "Theme license deactivated."
+msgstr "Licencia del tema desactivada."
+
+#: ../lib/api/admin/class-cc-tk-license-menu.php:294
+msgid "Deactivates theme license so it can be used on another blog."
+msgstr "Desactiva la licencia del tema para que pueda utilizarse en otro blog."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:364
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"La contraseña de la licencia para %s ha expirado. Puedes reactivar o comprar "
+"la clave de la licencia desde el panel de control de tu <a href=\"%s\" "
+"target=\"_blank\">cuenta</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:378
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"La suscripción a %s está suspendida. Puedes reaactivar la suscripción desde "
+"el panel de control de tu <a href=\"%s\" target=\"_blank\">cuenta</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:392
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+"Se ha cancelado la suscripción a %s Puedes renovar la suscripción del panel "
+"de control de tu <a href=\"%s\" target=\"_blank\">cuenta</a>. Después de "
+"completar tu pedido, se te enviará por correo electrónico una nueva clave "
+"para la licencia."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:406
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"La suscripción a %s ha expirado. Puedes reactivar la suscripción desde el "
+"panel de control de tu <a href=\"%s\" target=\"_blank\">cuenta</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:420
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"Se ha suspendido la suscripción a %s. Puedes reactivar la suscripción desde "
+"el panel de control de tu <a href=\"%s\" target=\"_blank\">cuenta</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:434
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+"La suscripción a %s está pendiente. Puedes revisar el estado de la "
+"suscripción desde el panel de control de tu  <a href=\"%s\" target=\"_blank"
+"\"> cuenta </a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:448
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+"La suscripción a %s se ha colocado en la papelera y se eliminará pronto. "
+"Puedes adquirir una nueva suscripción desde el panel de control de tu <a "
+"href=\"%s\" target=\"_blank\"> cuenta</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:462
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"No se pudo encontrar una suscripción a %s. Puedes adquirir una suscripción "
+"desde el panel de control de tu <a href=\"%s\" target=\"_blank\"> cuenta </"
+"a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:476
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+"No se pudo encontrar una clave para la licencia de %s. Quizá olvidaste "
+"introducir una clave para licencia cuando instalaste %s, o la clave se "
+"desactivó en tu cuenta. Puedes reactivar o adquirir una clave para la "
+"licencia desde el panel de control de tu <a href=\"%s\" target=\"_blank\"> "
+"cuenta</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:490
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"El permiso de descarga para %s ha sido revocado posiblemente debido a que la "
+"clave para licencia o la suscripción han expirado. Puedes reactivar o "
+"adquirir una clave para la licencia desde el panel de control de tu <a href="
+"\"%s\" target=\"_blank\"> cuenta</a>."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:504
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+"%s no se ha activado. Ve a la página de ajustes e introduce la clave de la "
+"licencia y el correo electrónico de ésta para activar %s."
+
+#: ../lib/api/classes/class-cc-tk-plugin-update.php:518
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+"Cambiaste la suscripción a %s, por lo que tendrás que introducir tu nueva "
+"clave para la licencia API en la página de ajustes. La clave para la "
+"licencia debería llegar a tu bandeja de entrada del correo electrónico; pero "
+"si esto no ocurre, inicia sesión en el panel de control de tu <a href=\"%s\" "
+"target=\"_blank\"> cuenta</a>."
+
+#: ../lib/importer/importer.php:133 ../lib/importer/importer.php:142
+#: ../lib/importer/importer.php:193 ../lib/importer/importer.php:197
+#: ../lib/importer/importer.php:206
+msgid "Sorry, there has been an error."
+msgstr "Lo sentimos, se ha producido un error."
+
+#: ../lib/importer/importer.php:134
+msgid "The file does not exist, please try again."
+msgstr "El archivo no existe. Por favor, inténtalo de nuevo."
+
+#: ../lib/importer/importer.php:177
+msgid "All done."
+msgstr "Hecho."
+
+#: ../lib/importer/importer.php:177
+msgid "Have fun!"
+msgstr "¡Diviértete!"
+
+#: ../lib/importer/importer.php:178
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+"Recuerda actualizar las contraseñas y papeles de los usuarios importados."
+
+#: ../lib/importer/importer.php:198
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"No se ha podido encontrar el archivo de exportación en <code>%s</code>. Es "
+"probable que un problema de permisos haya causado esto."
+
+#: ../lib/importer/importer.php:214
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Esta versión del importador puede no soportar este archivo WXR (versión %s). "
+"Porfavor, considera una actualización."
+
+#: ../lib/importer/importer.php:239
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"No se pudo importar el autor %s.  Sus posts se atribuirán al usuario actual."
+
+#: ../lib/importer/importer.php:265
+msgid "Assign Authors"
+msgstr "Asignar autores"
+
+#: ../lib/importer/importer.php:266
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"Para facilitar la edición y el guardado del contenido importado, puede que "
+"quieras reasignar el autor del artículo importado a un usuario ya existente "
+"en este sitio. Por ejemplo, puedes importar todas las entradas como entradas "
+"del <code>administrador </code>."
+
+#: ../lib/importer/importer.php:268
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Si WordPress crea un nuevo usuario, se generará de manera aleatoria una "
+"nueva contraseña y el papel del nuevo usuario será %s. Será necesario "
+"cambiar los detalles del nuevo usuario."
+
+#: ../lib/importer/importer.php:278
+msgid "Import Attachments"
+msgstr "Importar adjuntos"
+
+#: ../lib/importer/importer.php:281
+msgid "Download and import file attachments"
+msgstr "Descargar e importar archivos adjuntos"
+
+#: ../lib/importer/importer.php:298
+msgid "Import author:"
+msgstr "Importar autor:"
+
+#: ../lib/importer/importer.php:309
+msgid "or create new user with login name:"
+msgstr "o crear nuevo usuario con el nombre de inicio de sesión:"
+
+#: ../lib/importer/importer.php:312
+msgid "as a new user:"
+msgstr "como nuevo usuario:"
+
+#: ../lib/importer/importer.php:320
+msgid "assign posts to an existing user:"
+msgstr "asignar posts a un usuario ya existente:"
+
+#: ../lib/importer/importer.php:322
+msgid "or assign posts to an existing user:"
+msgstr "o asignar posts a un usuario ya existente:"
+
+#: ../lib/importer/importer.php:323
+msgid "- Select -"
+msgstr "- Seleccionar -"
+
+#: ../lib/importer/importer.php:373
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"No se pudo crear un nuevo usuario para %s. Sus posts se atribuirán al "
+"usuario actual."
+
+#: ../lib/importer/importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr "No se pudo importar la categoría %s"
+
+#: ../lib/importer/importer.php:464
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "No se pudo importar la etiqueta del post %s"
+
+#: ../lib/importer/importer.php:510 ../lib/importer/importer.php:651
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "No se pudo importar %s %s"
+
+#: ../lib/importer/importer.php:536
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "No se pudo importar &#8220;%s&#8221;: Tipo de post inválido %s"
+
+#: ../lib/importer/importer.php:558
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; ya existe."
+
+#: ../lib/importer/importer.php:617
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "No se pudo importar %s &#8220;%s&#8221;"
+
+#: ../lib/importer/importer.php:782
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+"Se ha ignorado un artículo del menú debido a una indicación ausente en él"
+
+#: ../lib/importer/importer.php:789
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+"Se ha ignorado un artículo del menú debido a una indicación inválida en él: "
+"%s"
+
+#: ../lib/importer/importer.php:852
+msgid "Fetching attachments is not enabled"
+msgstr "No está habilitada la recogida de archivos adjuntos"
+
+#: ../lib/importer/importer.php:865
+msgid "Invalid file type"
+msgstr "Tipo de archivo inválido"
+
+#: ../lib/importer/importer.php:909
+msgid "Remote server did not respond"
+msgstr "El servidor remoto no respondió"
+
+#: ../lib/importer/importer.php:915
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "El servidor remoto devolvió una respuesta de error %1$d %2$s"
+
+#: ../lib/importer/importer.php:922
+msgid "Remote file is incorrect size"
+msgstr "El archivo remoto es de un tamaño incorrecto"
+
+#: ../lib/importer/importer.php:927
+msgid "Zero size file downloaded"
+msgstr "Archivo de tamaño cero descargado"
+
+#: ../lib/importer/importer.php:933
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "El archivo remoto es demasiado grande. El límite es de %s"
+
+#: ../lib/importer/importer.php:1032
+msgid "Import WordPress"
+msgstr "Importar WordPress"
+
+#: ../lib/importer/importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Está disponible una nueva versión del importador. Por favor, actualiza para "
+"obtener la versión %s y asegurarte de la compatibilidad de nuevos archivos "
+"de exportación."
+
+#: ../lib/importer/importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"¡Saludos! Carga tu archivo WordPress eXtended RSS (WXR) e importaremos los "
+"posts, páginas, comentarios, campos personalizados, categorías y etiquetas a "
+"este sitio."
+
+#: ../lib/importer/importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Escoge un archivo WXR (.xml) que cargar. Después, haz clic en 'Cargar "
+"archivo' e impórtalo."
+
+#: ../lib/importer/importer.php:1124
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+"Importa <strong> posts, páginas, comentarios, campos personalizados, "
+"categorías y etiquetas </strong> desde un archivo de exportación de "
+"WordPress."
+
+#: ../lib/importer/parsers.php:43 ../lib/importer/parsers.php:75
+#: ../lib/importer/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr "Se ha producido un error durante la lectura de este archivo WXR"
+
+#: ../lib/importer/parsers.php:44
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Los detalles se muestran más arriba. El importador volverá a intentarlo de "
+"nuevo ahora con un analizador diferente..."
+
+#: ../lib/importer/parsers.php:87 ../lib/importer/parsers.php:92
+#: ../lib/importer/parsers.php:284 ../lib/importer/parsers.php:472
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Este archivo no parece estar en formato WXR. Número de versión WXR ausente/"
+"inválido"
+
+#: ../lib/style-switcher/style-switcher.php:50
+msgid "Select Skin"
+msgstr "Seleccionar fondo"
+
+#: ../multievent/includes/class-multievent-renderer.php:26
+#: ../multievent/includes/class-multievent-renderer.php:29
+#: ../multievent/includes/admin/class-multievent-admin.php:118
+#: ../multievent/includes/admin/class-multievent-admin.php:120
+msgid "Select Event"
+msgstr "Seleccionar evento"
+
+#: ../multievent/includes/class-multievent-widgets.php:16
+msgid "Multievent Page"
+msgstr "Página multievento"
+
+#: ../multievent/includes/class-multievent-widgets.php:18
+msgid ""
+"Widgets in this area will be shown on the right hand side of multievent page."
+msgstr ""
+"Los widgets de este área se mostrarán en el lateral derecho de la página "
+"multievento."
+
+#: ../multievent/includes/multievent-post-types.php:28
+#: ../multievent/includes/multievent-post-types.php:38
+msgid "Events"
+msgstr "Eventos"
+
+#: ../multievent/includes/multievent-post-types.php:29
+#: ../multievent/includes/admin/class-multievent-admin.php:41
+#: ../multievent/includes/admin/forms/multievent-box.php:26
+msgid "Event"
+msgstr "Evento"
+
+#: ../multievent/includes/multievent-post-types.php:31
+msgid "Add New Event"
+msgstr "Añadir nuevo evento"
+
+#: ../multievent/includes/multievent-post-types.php:32
+msgid "Edit Event"
+msgstr "Editar evento"
+
+#: ../multievent/includes/multievent-post-types.php:33
+msgid "New Event"
+msgstr "Nuevo evento"
+
+#: ../multievent/includes/multievent-post-types.php:34
+msgid "View Event"
+msgstr "Ver evento"
+
+#: ../multievent/includes/multievent-post-types.php:35
+msgid "Search Events"
+msgstr "Buscar eventos"
+
+#: ../multievent/includes/multievent-post-types.php:36
+msgid "No Event found"
+msgstr "No se encontraron eventos"
+
+#: ../multievent/includes/multievent-post-types.php:37
+msgid "No Event found in trash"
+msgstr "No se encontraron eventos en la papelera"
+
+#: ../multievent/includes/multievent-post-types.php:54
+msgid "Events Locations"
+msgstr "Ubicaciones de los eventos"
+
+#: ../multievent/includes/multievent-post-types.php:55
+msgid "Event Location"
+msgstr "Ubicación del evento"
+
+#: ../multievent/includes/multievent-post-types.php:56
+msgid "Search Events Locations"
+msgstr "Buscar ubicaciones de eventos"
+
+#: ../multievent/includes/multievent-post-types.php:57
+msgid "All Events Locations"
+msgstr "Ubicaciones de todos los eventos"
+
+#: ../multievent/includes/multievent-post-types.php:58
+msgid "Parent Event Location"
+msgstr "Ubicación relacionada del evento"
+
+#: ../multievent/includes/multievent-post-types.php:59
+msgid "Parent Event Location:"
+msgstr "Ubicación relacionada del evento:"
+
+#: ../multievent/includes/multievent-post-types.php:60
+msgid "Edit Event Location"
+msgstr "Editar ubicación del evento"
+
+#: ../multievent/includes/multievent-post-types.php:61
+msgid "Update Event Location"
+msgstr "Actualizar ubicación del evento"
+
+#: ../multievent/includes/multievent-post-types.php:62
+msgid "Add New Event Location"
+msgstr "Añadir nueva ubicación del evento"
+
+#: ../multievent/includes/multievent-post-types.php:63
+msgid "New Event Location"
+msgstr "Nueva ubicación del evento"
+
+#: ../multievent/includes/admin/class-multievent-admin.php:169
+msgid "This widget area is for event."
+msgstr "Este área para widgets es para un evento."
+
+#: ../multievent/includes/admin/forms/multievent-box.php:29
+msgid "Choose a Event..."
+msgstr "Elige un evento..."

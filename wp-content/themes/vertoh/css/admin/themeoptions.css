@@ -1,0 +1,7 @@
+.el-options-links{background: #bc9f60 !important;}
+.el-options-links ul li a {border-right: 1px solid #bc9f60 !important;}
+.el-options-links ul li a:hover{background: #bc9f60 !important;}
+.el-options-links ul li.el-save{background: #000000 !important;}
+.el-options-links ul li {margin-bottom: 0px !important;}
+.el-options-links ul li a {padding: 7px 15px !important;}
+.el-options-menu .resp-tab-active{color: #bc9f60 !important;}
